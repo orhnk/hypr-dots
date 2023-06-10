@@ -1,0 +1,85 @@
+"ui.background" = {bg = "#181a1b", fg = "#d1d1d1"}
+"ui.selection" = { bg="#2d3032" }
+
+"ui.cursor" = { fg = "#d1d1d1", modifiers = ["reversed"] }
+
+"ui.linenr" = { fg = "#5c6366", bg="#1d2023", modifiers = ["dim"] }
+# "ui.linenr.selected" = { fg = "white" }
+
+"ui.statusline" = { fg = "#34373a", bg = "#d1d1d1" }
+
+"attribute" = { fg = "yellow" }
+"comment" = { fg = "light-gray", modifiers = ["italic"] }
+"constant" = { fg = "cyan" }
+"constant.numeric" = { fg = "gold" }
+"constant.builtin" = { fg = "gold" }
+"constant.character.escape" = { fg = "gold" }
+"constructor" = { fg = "blue" }
+"function" = { fg = "blue" }
+"function.builtin" = { fg = "blue" }
+"function.macro" = { fg = "purple" }
+"keyword" = { fg = "red" }
+"keyword.control" = { fg = "purple" }
+"keyword.control.import" = { fg = "red" }
+"keyword.directive" = { fg = "purple" }
+"label" = { fg = "purple" }
+"namespace" = { fg = "blue" }
+"operator" = { fg = "purple" }
+"keyword.operator" = { fg = "purple" }
+"property" = { fg = "red" }
+"special" = { fg = "blue" }
+"string" = { fg = "green" }
+"type" = { fg = "yellow" }
+"variable" = { fg = "blue" }
+"variable.builtin" = { fg = "blue" }
+"variable.parameter" = { fg = "red" }
+"variable.other.member" = { fg = "red" }
+
+"markup.heading" = { fg = "red" }
+"markup.raw.inline" = { fg = "green" }
+"markup.bold" = { fg = "gold", modifiers = ["bold"] }
+"markup.italic" = { fg = "purple", modifiers = ["italic"] }
+"markup.list" = { fg = "red" }
+"markup.quote" = { fg = "yellow" }
+"markup.link.url" = { fg = "cyan", modifiers = ["underlined"]}
+"markup.link.text" = { fg = "purple" }
+
+"diff.plus" = "green"
+"diff.delta" = "gold"
+"diff.minus" = "red"
+
+diagnostic = { modifiers = ["underlined"] }
+"info" = { fg = "blue", modifiers = ["bold"] }
+"hint" = { fg = "green", modifiers = ["bold"] }
+"warning" = { fg = "yellow", modifiers = ["bold"] }
+"error" = { fg = "red", modifiers = ["bold"] }
+
+"ui.statusline.inactive" = { fg = "light-gray", bg = "light-black" }
+
+"ui.text" = { fg = "white" }
+"ui.text.focus" = { fg = "white", bg = "light-black", modifiers = ["bold"] }
+
+"ui.help" = { bg = "gray" }
+"ui.popup" = { bg = "gray" }
+"ui.window" = { bg = "gray" }
+"ui.menu.selected" = { fg = "black", bg = "blue" }
+
+[palette]
+
+lemon = "#FAC03B"
+special = "#FFb354"
+preproc = "#a29bfe"
+function = "#a3db81"
+foreground = "#d1d1d1"
+fg_alt = "#a1a1a1"
+statusline = "#34373a"
+darker = "#131515"
+background = "#181a1b"
+light_bg = "#1d2023"
+lighter_bg = "#242629"
+comment = "#5c6366"
+selection = "#2d3032"
+string = "#37ad82"
+type = "#7398dd"
+constant = "#ca70d6"
+error = "#c15959"

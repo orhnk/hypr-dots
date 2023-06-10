@@ -1,0 +1,583 @@
+["variable.other.constant"]
+fg = '#89D9D2'
+
+["meta.jsx.children.js"]
+fg = '#D6D9E0'
+
+["ui.selection"]
+fg = '#323232CC'
+bg = '#F2F2F2'
+
+["fragment.graphql"]
+fg = '#92D8E6'
+
+["support.function"]
+fg = '#9AC6F2'
+
+["keyword.control.flow.block-scalar.folded.yaml"]
+fg = '#C1A2FF'
+modifiers = []
+
+["type.anchor.yaml"]
+fg = '#FFBAD1'
+
+["invalid.illegal"]
+fg = '#FFA2A2'
+
+["markup.list.numbered"]
+fg = '#D6D9E0'
+
+["string.unquoted"]
+fg = '#BBD99E'
+
+["variable.other.property"]
+fg = '#D6D9E0'
+
+["support.type.object.console.js"]
+fg = '#FFBAD1'
+
+["variable.language"]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+["support.class.console.js"]
+fg = '#FFBAD1'
+
+[punctuation]
+fg = '#8A94A8'
+modifiers = ['normal']
+
+["keyword.operator.new.js"]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+["keyword.operator.new.ts"]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+["keyword.operator"]
+fg = '#C1A2FF'
+modifiers = []
+
+["keyword.operator.expression.in.js"]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+["meta.paragraph.markdown"]
+fg = '#D6D9E0'
+
+["string.quoted"]
+fg = '#BBD99E'
+
+["string.other.link.title.markdown"]
+fg = '#BFDCF9'
+
+[error]
+fg = '#FFA2A2'
+
+["ui.linenr"]
+fg = '#616161'
+
+["constant.name.attribute.tag.pug"]
+fg = '#8A94A8'
+modifiers = ['normal']
+
+["keyword.other.create.sql"]
+fg = '#C1A2FF'
+modifiers = []
+
+["keyword.operator.typeof.js"]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+["keyword.operator.expression.instanceof.js"]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+["string.interpolated"]
+fg = '#BBD99E'
+
+["punctuation.definition.comment"]
+fg = '#758096'
+modifiers = ['italic']
+
+["keyword.other.definition.ini"]
+fg = '#C1A2FF'
+
+["entity.other.inherited-class"]
+fg = '#E6D791'
+
+["storage.type.function.arrow.ts"]
+modifiers = []
+
+["ui.popup"]
+fg = '#C8C8C8'
+bg = '#232323'
+
+["entity.other.attribute-name.id.pug"]
+fg = '#E6D791'
+
+["constant.numeric"]
+fg = '#F2B09A'
+
+["tag.other.html"]
+fg = '#F2B09A'
+
+["keyword.operator.of.js"]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+[class]
+fg = '#E6D791'
+
+["keyword.operator.typeof.ts"]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+["ui.statusline"]
+fg = '#8A8A8A'
+bg = '#101010'
+
+["variable.parameter"]
+fg = '#FFBAD1'
+
+["string.unquoted.alias.graphql"]
+fg = '#FFBAD1'
+
+["meta.attribute.unrecognized"]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+["entity.other.attribute-name.class.pug"]
+fg = '#F2B09A'
+
+["variable.control.import.include.pug"]
+fg = '#BBD99E'
+
+["keyword.other.sql"]
+fg = '#C1A2FF'
+modifiers = []
+
+["constant.language"]
+fg = '#89D9D2'
+
+[hint]
+fg = '#C1A2FF'
+
+["meta.type.object.graphql variable.graphql"]
+fg = '#D6D9E0'
+
+["new.expr.ts entity.name.type.ts"]
+fg = '#E6D791'
+
+[info]
+fg = '#92D8E6'
+
+["entity.other.attribute-name.pseudo-class.css"]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+["variable.object.property"]
+fg = '#D6D9E0'
+
+["string.other.link.description.markdown"]
+fg = '#BFDCF9'
+
+["keyword.operator.expression.keyof.ts"]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+["entity.other.attribute-name.css"]
+fg = '#9AC6F2'
+
+["tag.html"]
+fg = '#FFA2A2'
+
+["meta.directive.vue entity.other.attribute-name.html"]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+["meta.object-literal.key"]
+fg = '#D6D9E0'
+
+["variable.other"]
+fg = '#FFBAD1'
+
+["meta.property-value.css"]
+fg = '#9AC6F2'
+
+["variable.other.class"]
+fg = '#E6D791'
+
+["string.quoted.double.html"]
+fg = '#BBD99E'
+
+["keyword.other.DML.sql"]
+fg = '#C1A2FF'
+modifiers = []
+
+["keyword.other.alias.sql"]
+fg = '#C1A2FF'
+modifiers = []
+
+["meta.tag.sgml.doctype.html"]
+fg = '#FFA2A2'
+
+["ui.help"]
+fg = '#C8C8C8'
+bg = '#1A1A1A'
+
+["section.group-title.ini"]
+fg = '#F2F2F2'
+
+["support.variable"]
+fg = '#FFBAD1'
+
+[keyword]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+["keyword.other.table.sql"]
+fg = '#C1A2FF'
+modifiers = []
+
+["support.type"]
+fg = '#92D8E6'
+
+["keyword.operator.expression.in.ts"]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+[comment]
+fg = '#758096'
+modifiers = ['italic']
+
+["meta.interface.ts entity.other.inherited-class.ts"]
+fg = '#92D8E6'
+
+["new.expr.js entity.name.type.js"]
+fg = '#E6D791'
+
+["keyword.control.flow.block-scalar.literal.yaml"]
+fg = '#C1A2FF'
+modifiers = []
+
+["constant.language.merge.yaml"]
+fg = '#C1A2FF'
+modifiers = []
+
+["storage.modifier.sql"]
+fg = '#C1A2FF'
+modifiers = []
+
+["constant.character.escape"]
+fg = '#C1A2FF'
+
+["entity.other.attribute-name.tag.pug"]
+fg = '#9AC6F2'
+
+["keyword.operator.expression.of.js"]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+["markup.underline.link"]
+fg = '#9AC6F2'
+modifiers = ['underline']
+
+["type.instance"]
+fg = '#E6D791'
+
+["storage.type"]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+["support.class"]
+fg = '#E6D791'
+
+[string]
+fg = '#BBD99E'
+
+["support.other"]
+fg = '#89D9D2'
+
+["markup.heading"]
+fg = '#E6D791'
+modifiers = ['bold']
+
+["tag.pug"]
+fg = '#FFA2A2'
+
+[JSXNested]
+fg = '#D6D9E0'
+
+["constant.numeric.css"]
+fg = '#F6BFAD'
+
+["ui.menu"]
+bg = '#232323'
+
+["keyword.operator.in.ts"]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+["JSXAttrs string.quoted.double.js"]
+fg = '#BBD99E'
+
+[variable]
+fg = '#FFBAD1'
+
+["source.ini"]
+fg = '#FFBAD1'
+
+["markup.raw"]
+fg = '#9AC6F2'
+
+["meta.selector.css"]
+fg = '#FFA2A2'
+
+["string.interpolated.pug"]
+fg = '#8A94A8'
+modifiers = ['normal']
+
+["meta.selectionset.graphql variable.graphql"]
+fg = '#D6D9E0'
+
+["string.regexp"]
+fg = '#BBD99E'
+
+["support.type.property-name.media.css"]
+fg = '#D6D9E0'
+
+["text.html.derivative"]
+fg = '#D6D9E0'
+
+["support.type.property-name.json"]
+fg = '#C1A2FF'
+
+["meta.tag.other attribute_value"]
+fg = '#8A94A8'
+modifiers = ['normal']
+
+["entity.other.document.begin.yaml"]
+fg = '#E6D791'
+
+["keyword.operator.expression.typeof.js"]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+["support.constant.math.ts"]
+fg = '#E6D791'
+
+["markup.quote"]
+fg = '#A2AABB'
+
+["entity.other.document.end.yaml"]
+fg = '#E6D791'
+
+["support.class.component"]
+fg = '#F2B09A'
+
+[type]
+fg = '#92D8E6'
+
+["constant.language.null.yaml"]
+fg = '#C1A2FF'
+
+["keyword.other.unit"]
+fg = '#F2B09A'
+modifiers = []
+
+["attribute_value string.quoted.pug"]
+fg = '#BBD99E'
+
+[function]
+fg = '#9AC6F2'
+
+["support.type.object.dom.js"]
+fg = '#FFBAD1'
+
+["tag.yaml"]
+fg = '#FFA2A2'
+
+["storage.type.function.arrow.js"]
+modifiers = []
+
+[constant]
+fg = '#FFA2A2'
+
+["support.constant"]
+fg = '#89D9D2'
+
+["variable.other.enummember.ts"]
+fg = '#D6D9E0'
+
+["entity.other.attribute-name.class.css"]
+fg = '#F2B09A'
+
+["support.type.property-name.css"]
+fg = '#D6D9E0'
+
+["meta.block-mapping.yaml"]
+fg = '#C1A2FF'
+modifiers = []
+
+["type.class"]
+fg = '#E6D791'
+
+["meta.brace"]
+fg = '#8A94A8'
+modifiers = ['normal']
+
+["text.pug"]
+fg = '#D6D9E0'
+
+["keyword.operator.in.js"]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+["variable.other.alias.yaml"]
+fg = '#FFBAD1'
+
+[tag]
+fg = '#FFA2A2'
+
+["keyword.operator.logical.and.media.css"]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+["invalid.deprecated"]
+fg = '#FFA2A2'
+
+["support.type.vendored.property-name.css"]
+fg = '#D6D9E0'
+
+["meta.tag"]
+fg = '#9AC6F2'
+
+["string.unquoted.js"]
+fg = '#D6D9E0'
+
+["keyword.operator.instanceof.js"]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+["storage.modifier"]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+["variable.other.object.property"]
+fg = '#BAE9F2'
+
+["keyword.other.DDL.create.II.sql"]
+fg = '#C1A2FF'
+modifiers = []
+
+["string.block.description.graphql"]
+fg = '#758096'
+modifiers = ['italic']
+
+["ui.cursor"]
+fg = '#0F2D33'
+bg = '#92D8E6'
+
+["tag.css"]
+fg = '#FFA2A2'
+
+["entity.other.attribute-name.id.css"]
+fg = '#E6D791'
+
+["entity.other.attribute-name.pseudo-element.css"]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+["keyword.other"]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+["markup.inline.raw.string.markdown"]
+fg = '#9AC6F2'
+
+["keyword.operator.of.ts"]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+["variable.parameter.css"]
+fg = '#BBD99E'
+
+["string.other"]
+fg = '#BBD99E'
+
+["support.constant.math.js"]
+fg = '#E6D791'
+
+["variable.fragment.graphql"]
+fg = '#92D8E6'
+
+["ui.linenr.selected"]
+fg = '#B4B4B4'
+
+["markup.bold"]
+fg = '#BBD99E'
+modifiers = ['bold']
+
+[warning]
+fg = '#E6D791'
+
+["support.variable.property"]
+fg = '#D6D9E0'
+
+["constant.character"]
+fg = '#9AC6F2'
+
+["markup.italic"]
+fg = '#89D9D2'
+modifiers = ['italic']
+
+["markup.underline"]
+fg = '#9AC6F2'
+modifiers = ['underline']
+
+["ui.background"]
+bg = '#1A1A1A'
+
+["entity.scalar.graphql"]
+fg = '#92D8E6'
+
+["string.comment.buffered.block.pug"]
+fg = '#758096'
+modifiers = ['italic']
+
+["type.module"]
+fg = '#9AC6F2'
+
+["constant.other"]
+fg = '#89D9D2'
+
+["variable.parameter.url.css"]
+fg = '#BBD99E'
+
+["markup.list.unnumbered"]
+fg = '#D6D9E0'
+
+["meta.jsx.children.tsx"]
+fg = '#D6D9E0'
+
+["keyword.control"]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+["constant.language.boolean.yaml"]
+fg = '#C1A2FF'
+
+["meta.tag.inline.any"]
+fg = '#9AC6F2'
+
+["keyword.operator.expression.instanceof.ts"]
+fg = '#C1A2FF'
+modifiers = ['italic']
+
+["entity.other.attribute-name"]
+fg = '#9AC6F2'
+
+["ui.cursor.match"]
+bg = '#323232CC'

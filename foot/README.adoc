@@ -1,0 +1,137 @@
+= foot Config
+Jordan Williams <jordan@jwillikers.com>
+:experimental:
+:icons: font
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+:foot: https://codeberg.org/dnkl/foot[foot]
+
+My configuration for {foot}, the fast, lightweight and minimalist Wayland terminal emulator.
+
+== Usage
+
+This repository contains the configuration file for {foot}.
+This file is synchronized using this Git repository.
+The following instructions detail how to use and sync this repository.
+
+=== Install
+
+Install these settings with the following instructions.
+
+. Clone this repository.
++
+[,sh]
+----
+git -C ~/Projects clone git@github.com:jwillikers/foot-config.git
+----
+
+. Create the _~/.config/foot/_ directory.
++
+[,sh]
+----
+mkdir ~/.config/foot/
+----
+
+. Copy the `foot.ini` file to the config directory.
++
+[,sh]
+----
+cp ~/Projects/foot-config/foot.ini ~/.config/foot/
+----
+
+. Verify the configuration in the `foot.ini` file.
++
+[,sh]
+----
+foot --check-config
+----
+
+=== Update
+
+To update the settings in this repository from an existing installation, follow these steps.
+
+. If you haven't already done so, clone this repository.
++
+[,sh]
+----
+git -C ~/Projects clone git@github.com:jwillikers/foot-config.git
+----
+
+. Copy the `foot.ini` file from the config directory to this repository.
++
+[,sh]
+----
+cp ~/.config/foot/foot.ini ~/Projects/foot-config/
+----
+
+. Verify the configuration in the `foot.ini` file.
++
+[,sh]
+----
+foot --config=~/Projects/foot-config/foot.ini --check-config
+----
+
+. Stage the updated file.
++
+[,sh]
+----
+git -C ~/Projects/foot-config add -A
+----
+
+. Commit.
++
+[,sh]
+----
+git -C ~/Projects/foot-config commit -m "Update configuration putting all others to shame"
+----
+
+. Push the changes back to the central repository.
++
+[,sh]
+----
+git -C ~/Projects/foot-config push
+----
+
+== Tips and Tricks
+
+=== SSH
+
+When using foot to SSH into another machine, the remote machine needs to have the `foot-terminfo` package installed.
+Without this package, things won't behave as expected.
+To install it on an `rpm-ostree` system, follow the steps below.
+
+. Install the `foot-terminfo` package.
++
+[,sh]
+----
+sudo rpm-ostree install foot-terminfo
+----
+
+. Reboot to apply the changes.
++
+[,sh]
+----
+sudo systemctl reboot
+----
+
+== Code of Conduct
+
+Please refer to the project's link:CODE_OF_CONDUCT.adoc[Code of Conduct].
+
+== License
+
+This repository is licensed under the https://www.gnu.org/licenses/gpl-3.0.html[GPLv3].
+Please refer to the bundled link:LICENSE.adoc[license].
+
+== Copyright
+
+© 2022-2023 Jordan Williams
+
+== Authors
+
+mailto:{email}[{author}]

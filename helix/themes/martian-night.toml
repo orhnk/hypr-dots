@@ -1,0 +1,837 @@
+["markup.inserted.diff"]
+fg = '#98c379'
+
+["keyword.operator.assignment.compound"]
+fg = '#cc6be9'
+
+["constant.other.character-class.regexp"]
+fg = '#9faeca'
+
+["keyword.operator.logical"]
+fg = '#56b6c2'
+
+["markup.underline.link.markdown,markup.underline.link.image.markdown"]
+fg = '#cc6be9'
+
+["punctuation.definition.template-expression.begin"]
+fg = '#cc6be9'
+
+["type.namespace"]
+fg = '#e5c07b'
+
+["variable.parameter.function.python"]
+fg = '#e09956'
+
+["ui.statusline"]
+fg = '#ffffff'
+bg = '#41a3ff'
+
+["beginning.punctuation.definition.quote.markdown.xi"]
+fg = '#98c379'
+
+["support.type.object.dom"]
+fg = '#56b6c2'
+
+["ui.selection"]
+fg = '#264f78'
+
+["ui.linenr"]
+fg = '#858585'
+
+["punctuation.definition.heading.markdown"]
+fg = '#9faeca'
+
+["token.storage"]
+fg = '#cc6be9'
+
+["support.function.any-method"]
+fg = '#61afef'
+
+["support.type.texture.hlsl"]
+fg = '#cc6be9'
+
+["label.cs"]
+fg = '#9faeca'
+
+["text.variable"]
+fg = '#9faeca'
+
+["support.type.property-name.json punctuation"]
+fg = '#9faeca'
+
+["support.type.vb.asp"]
+fg = '#e5c07b'
+
+["punctuation.section.embedded"]
+fg = '#cc6be9'
+
+["ui.background"]
+bg = '#181822'
+
+["selector.sass"]
+fg = '#9faeca'
+
+["support.type.python"]
+fg = '#56b6c2'
+
+["keyword.other.substitution.end"]
+fg = '#98c379'
+
+["punctuation.section.block.begin.java,punctuation.section.block.end.java,punctuation.definition.method-parameters.begin.java,punctuation.definition.method-parameters.end.java,meta.method.identifier.java,punctuation.section.method.begin.java,punctuation.section.method.end.java,punctuation.terminator.java,punctuation.section.class.begin.java,punctuation.section.class.end.java,punctuation.section.inner-class.begin.java,punctuation.section.inner-class.end.java,meta.method-call.java,punctuation.section.class.begin.bracket.curly.java,punctuation.section.class.end.bracket.curly.java,punctuation.section.method.begin.bracket.curly.java,punctuation.section.method.end.bracket.curly.java,punctuation.separator.period.java,punctuation.bracket.angle.java,punctuation.definition.annotation.java,meta.method.body.java"]
+fg = '#d4d4d4'
+
+["import.storage.java"]
+fg = '#e5c07b'
+
+["markup.heading.setext.1.markdown"]
+fg = '#9faeca'
+
+["entity.other.attribute-name.id"]
+fg = '#92faba'
+
+["punctuation.separator.list.comma.css"]
+fg = '#d4d4d4'
+
+["invalid.broken"]
+fg = '#ffffff'
+
+["source.json meta.structure.dictionary.json > value.json > string.quoted.json,source.json meta.structure.array.json > value.json > string.quoted.json,source.json meta.structure.dictionary.json > value.json > string.quoted.json > punctuation,source.json meta.structure.array.json > value.json > string.quoted.json > punctuation"]
+fg = '#98c379'
+
+["text.html.laravel-blade source.php.embedded.line.html entity.name.tag.laravel-blade"]
+fg = '#cc6be9'
+
+["support.type.type.flowtype"]
+fg = '#61afef'
+
+["function,support.function.console"]
+fg = '#61afef'
+modifiers = ['italic']
+
+["keyword.operator.sizeof.c,keyword.operator.sizeof.cpp"]
+fg = '#cc6be9'
+
+[namespace]
+fg = '#e5c07b'
+
+["keyword.operator.logical.php,keyword.operator.bitwise.php,keyword.operator.arithmetic.php"]
+fg = '#56b6c2'
+
+["token.warn-token"]
+fg = '#e09956'
+
+["support.variable.semantic.hlsl"]
+fg = '#e5c07b'
+
+["punctuation.definition.string.begin,punctuation.definition.string.end"]
+fg = '#98c379'
+
+["support.constant.property-value"]
+fg = '#d4d4d4'
+
+["punctuation.definition.metadata.markdown"]
+fg = '#9faeca'
+
+["keyword.operator.instanceof.java"]
+fg = '#cc6be9'
+
+["meta.function.decorator.python"]
+fg = '#61afef'
+
+["meta.definition.variable.name.groovy"]
+fg = '#9faeca'
+
+["ui.cursor.match"]
+bg = '#0064001a'
+
+["text.html.laravel-blade source.php.embedded.line.html support.constant.laravel-blade"]
+fg = '#cc6be9'
+
+["keyword.operator.assignment.c,keyword.operator.comparison.c,keyword.operator.c,keyword.operator.increment.c,keyword.operator.decrement.c,keyword.operator.bitwise.shift.c,keyword.operator.assignment.cpp,keyword.operator.comparison.cpp,keyword.operator.cpp,keyword.operator.increment.cpp,keyword.operator.decrement.cpp,keyword.operator.bitwise.shift.cpp"]
+fg = '#cc6be9'
+
+["package.go"]
+fg = '#e5c07b'
+
+["scope-resolution.function.call"]
+fg = '#e5c07b'
+
+[storage]
+fg = '#cc6be9'
+modifiers = ['italic']
+
+["keyword.control.xi"]
+fg = '#56b6c2'
+
+["support.type.object.hlsl"]
+fg = '#cc6be9'
+
+["markup.inline.raw.markdown"]
+fg = '#98c379'
+
+["storage.modifier.import.java,storage.type.java,storage.type.generic.java"]
+fg = '#e5c07b'
+
+["keyword.operator.assignment.go"]
+fg = '#e5c07b'
+
+["source.ini"]
+fg = '#98c379'
+
+["variable.local.cs"]
+fg = '#9faeca'
+
+["keyword.operator.address.go"]
+fg = '#cc6be9'
+
+["inline-color-decoration rgb-value"]
+fg = '#e09956'
+
+["support.type.object.rw.hlsl"]
+fg = '#cc6be9'
+
+["meta.definition.class.inherited.classes.groovy"]
+fg = '#98c379'
+
+["support.constant.property.math"]
+fg = '#e09956'
+
+["invalid.illegal.bad-ampersand.html"]
+fg = '#d4d4d4'
+
+["invalid.deprecated"]
+fg = '#ffffff'
+
+["constant.character.entity"]
+fg = '#9faeca'
+
+["markup.heading punctuation.definition.heading, entity.name.section"]
+fg = '#61afef'
+
+[type]
+fg = '#e5c07b'
+
+["markup.inline.raw.string.markdown"]
+fg = '#98c379'
+
+["keyword.operator.type.php"]
+fg = '#cc6be9'
+
+["markup.heading.setext"]
+fg = '#d4d4d4'
+
+["punctuation.separator.period.python,punctuation.separator.element.python,punctuation.parenthesis.begin.python,punctuation.parenthesis.end.python"]
+fg = '#d4d4d4'
+
+["support.constant.elm"]
+fg = '#e09956'
+
+["meta.template.expression"]
+fg = '#d4d4d4'
+
+["meta.diff.header.from-file,meta.diff.header.to-file,punctuation.definition.from-file.diff,punctuation.definition.to-file.diff"]
+fg = '#61afef'
+
+["control.elements, keyword.operator.less"]
+fg = '#e09956'
+
+["support.variable.magic.python"]
+fg = '#9faeca'
+
+["punctuation.section.array.end.php"]
+fg = '#d4d4d4'
+
+["keyword.operator.regexp.php"]
+fg = '#cc6be9'
+
+["source.makefile"]
+fg = '#e5c07b'
+
+["support.type.property-name"]
+fg = '#d4d4d4'
+
+["token.error-token"]
+fg = '#f44747'
+
+["variable.other.class.php"]
+fg = '#9faeca'
+
+["meta.method.java"]
+fg = '#61afef'
+
+["punctuation.definition.list.begin.markdown"]
+fg = '#9faeca'
+
+["storage.type.php,meta.other.type.phpdoc.php,keyword.other.type.php,keyword.other.array.phpdoc.php"]
+fg = '#e5c07b'
+
+["variable.parameter.function.js"]
+fg = '#9faeca'
+
+["ui.menu"]
+fg = '#cccccc'
+bg = '#252526'
+
+["keyword.operator.optional"]
+fg = '#cc6be9'
+
+["text.bracketed"]
+fg = '#9faeca'
+
+[" meta.brace.square"]
+fg = '#d4d4d4'
+
+["support.constant.ext.php,support.constant.std.php,support.constant.core.php,support.constant.parser-token.php"]
+fg = '#e09956'
+
+["punctuation.definition.string.end.markdown"]
+fg = '#9faeca'
+
+["support.function"]
+fg = '#56b6c2'
+
+["entity.other.attribute-name.pseudo-element"]
+fg = '#56b6c2'
+
+["string.regexp"]
+fg = '#56b6c2'
+
+["variable.parameter.function.language.python"]
+fg = '#e09956'
+
+["variable.language"]
+fg = '#e5c07b'
+
+["meta.tag"]
+fg = '#d4d4d4'
+
+["keyword.operator.channel"]
+fg = '#56b6c2'
+
+["support.type.primitive"]
+fg = '#e5c07b'
+
+["keyword.operator.misc.rust"]
+fg = '#d4d4d4'
+
+[function]
+fg = '#61afef'
+
+["constant.other.color.rgb-value.xi"]
+fg = '#ffffff'
+
+["function.parameter"]
+fg = '#d4d4d4'
+
+["punctuation.definition.constant"]
+fg = '#e09956'
+
+[variable]
+fg = '#d3d9e6'
+
+["meta.method.groovy"]
+fg = '#61afef'
+
+["keyword.operator.assignment.compound.js,keyword.operator.assignment.compound.ts"]
+fg = '#56b6c2'
+
+["keyword.operator.css,keyword.operator.scss,keyword.operator.less"]
+fg = '#56b6c2'
+
+["section.markdown"]
+fg = '#9faeca'
+
+["punctuation.section.embedded, variable.interpolation"]
+fg = '#9faeca'
+
+["keyword.other.special-method"]
+fg = '#61afef'
+
+["keyword.operator.quantifier.regexp"]
+fg = '#e09956'
+
+["punctuation.definition.template-expression.end"]
+fg = '#cc6be9'
+
+["constant.regexp.xi"]
+fg = '#cc6be9'
+
+["keyword.operator.bitwise"]
+fg = '#56b6c2'
+
+["meta.function-call.generic.python"]
+fg = '#61afef'
+
+["variable.c"]
+fg = '#d4d4d4'
+
+[string]
+fg = '#A5FF90'
+
+["punctuation.definition.list.markdown"]
+fg = '#9faeca'
+
+["wikiword.xi"]
+fg = '#e09956'
+
+["support.constant.color.w3c-standard-color-name.css"]
+fg = '#e09956'
+
+["punctuation.definition.bold"]
+fg = '#e5c07b'
+
+[error]
+fg = '#f48771'
+bg = '#B73A3400'
+
+["keyword.operator.module"]
+fg = '#cc6be9'
+
+["ui.linenr.selected"]
+fg = '#c6c6c6'
+
+[tag]
+fg = '#ff6196'
+
+["markup.changed.diff"]
+fg = '#e5c07b'
+
+["keyword.operator"]
+fg = '#d4d4d4'
+
+["variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node"]
+fg = '#eeeeee'
+
+["token.package"]
+fg = '#d4d4d4'
+
+["keyword.other.template.begin"]
+fg = '#98c379'
+
+["support.constant.color.w3c-standard-color-name.css,support.constant.color.w3c-standard-color-name.scss"]
+fg = '#e09956'
+
+["storage.type.annotation.java"]
+fg = '#e5c07b'
+
+["support.type.primitive.ts,support.type.builtin.ts,support.type.primitive.tsx,support.type.builtin.tsx"]
+fg = '#e5c07b'
+
+["beginning.punctuation.definition.list.markdown.xi"]
+fg = '#7f848e'
+
+["support.class, entity.name.type.class"]
+fg = '#e5c07b'
+
+["beginning.punctuation.definition.list.markdown"]
+fg = '#9faeca'
+
+["keyword.operator.logical.python"]
+fg = '#cc6be9'
+
+["scope-resolution.function.definition"]
+fg = '#e5c07b'
+
+["punctuation.separator.delimiter"]
+fg = '#d4d4d4'
+
+["storage.modifier.import.groovy"]
+fg = '#e5c07b'
+
+["keyword.other.substitution.begin"]
+fg = '#98c379'
+
+["string.other.link.title.markdown,string.other.link.description.markdown"]
+fg = '#61afef'
+
+["ui.popup"]
+fg = '#d4d4d4'
+bg = '#252526'
+
+["support.function.std.rust"]
+fg = '#61afef'
+
+["variable.parameter.function.coffee"]
+fg = '#9faeca'
+
+["comment markup.link"]
+fg = '#7f848e'
+
+["punctuation.definition.delayed.unison,punctuation.definition.list.begin.unison,punctuation.definition.list.end.unison,punctuation.definition.ability.begin.unison,punctuation.definition.ability.end.unison,punctuation.operator.assignment.as.unison,punctuation.separator.pipe.unison,punctuation.separator.delimiter.unison,punctuation.definition.hash.unison"]
+fg = '#9faeca'
+
+["constant.character.xi"]
+fg = '#61afef'
+
+["less rgb-value"]
+fg = '#e09956'
+
+["meta.definition.variable.name.java"]
+fg = '#9faeca'
+
+["entity.other.inherited-class"]
+fg = '#e5c07b'
+
+["ui.cursor"]
+fg = '#d4d4d4'
+bg = '#ff3f7e'
+
+["keyword.other.unit"]
+fg = '#9faeca'
+
+["keyword.operator.ternary"]
+fg = '#cc6be9'
+
+["keyword.operator.delete"]
+fg = '#cc6be9'
+
+["variable.other.class.ts"]
+fg = '#e5c07b'
+
+["variable.other.generic-type.haskell"]
+fg = '#cc6be9'
+
+["invalid.unimplemented"]
+fg = '#ffffff'
+
+["punctuation.separator.key-value"]
+fg = '#d4d4d4'
+
+["punctuation.quasi.element"]
+fg = '#cc6be9'
+
+["variable.parameter.function"]
+fg = '#d4d4d4'
+
+["markup.heading"]
+fg = '#9faeca'
+
+["keyword.operator.arithmetic.go"]
+fg = '#cc6be9'
+
+["source.json meta.structure.dictionary.json > string.quoted.json"]
+fg = '#9faeca'
+
+["punctuation.definition.string.begin.markdown"]
+fg = '#9faeca'
+
+["markup.bold,todo.bold"]
+fg = '#e09956'
+
+["support.constant.font-name"]
+fg = '#e09956'
+
+["storage.type.cs"]
+fg = '#e5c07b'
+
+["support.type.object.console"]
+fg = '#9faeca'
+
+["invalid.illegal.non-null-typehinted.php"]
+fg = '#f44747'
+
+["keyword.operator.comparison.php"]
+fg = '#56b6c2'
+
+["meta.arguments.coffee"]
+fg = '#9faeca'
+
+["variable.other.class.js"]
+fg = '#e5c07b'
+
+["keyword.operator.expression.instanceof"]
+fg = '#cc6be9'
+
+["constant.keyword.clojure"]
+fg = '#56b6c2'
+
+["keyword.operator.error-control.php"]
+fg = '#cc6be9'
+
+["token.debug-token"]
+fg = '#cc6be9'
+
+["ui.help"]
+fg = '#cccccc'
+bg = '#181822'
+
+["meta.function.c,meta.function.cpp"]
+fg = '#9faeca'
+
+["storage.type.haskell"]
+fg = '#e09956'
+
+["support.constant.math"]
+fg = '#e5c07b'
+
+["variable.parameter.function.language.special.self.python"]
+fg = '#e5c07b'
+
+["emphasis md"]
+fg = '#cc6be9'
+
+[rgb-value]
+fg = '#56b6c2'
+
+["punctuation.section.array.begin.php"]
+fg = '#d4d4d4'
+
+["token.package.keyword"]
+fg = '#cc6be9'
+
+["constant.character.escape"]
+fg = '#56b6c2'
+
+["variable.language.rust"]
+fg = '#9faeca'
+
+["block.scope.end,block.scope.begin"]
+fg = '#d4d4d4'
+
+["entity.other.attribute-name.pseudo-class"]
+fg = '#56b6c2'
+
+["support.constant.edge"]
+fg = '#cc6be9'
+
+["function.xi"]
+fg = '#e5c07b'
+
+["variable.other.constant"]
+fg = '#e5c07b'
+
+["support.module.node,support.type.object.module,support.module.node"]
+fg = '#e5c07b'
+
+["punctuation.separator.c,punctuation.separator.cpp"]
+fg = '#cc6be9'
+
+["variable.function"]
+fg = '#61afef'
+
+["support.type.property-name.json"]
+fg = '#9faeca'
+
+["keyword.operator.heredoc.php,keyword.operator.nowdoc.php"]
+fg = '#cc6be9'
+
+["meta.scope.prerequisites.makefile"]
+fg = '#9faeca'
+
+["storage.modifier.lifetime.rust"]
+fg = '#d4d4d4'
+
+["punctuation.definition.tag.xi"]
+fg = '#7f848e'
+
+["class.xi"]
+fg = '#56b6c2'
+
+[class]
+fg = '#e5c07b'
+
+["token.storage.type.java"]
+fg = '#e5c07b'
+
+["support.type.vendored.property-name.css"]
+fg = '#56b6c2'
+
+["support.other.namespace.use.php,support.other.namespace.use-as.php,support.other.namespace.php,entity.other.alias.php,meta.interface.php"]
+fg = '#e5c07b'
+
+["support.constant.json"]
+fg = '#e09956'
+
+["entity.other.attribute-name.class.css"]
+fg = '#fdfb88'
+
+["meta.function-call.php,meta.function-call.object.php,meta.function-call.static.php"]
+fg = '#61afef'
+
+["support.type.prelude.elm"]
+fg = '#56b6c2'
+
+["punctuation.definition.bold.markdown"]
+fg = '#e09956'
+
+["source.json meta.structure.dictionary.json > string.quoted.json > punctuation.string"]
+fg = '#9faeca'
+
+["function.parameter.ruby, function.parameter.cs"]
+fg = '#d4d4d4'
+
+["comment, punctuation.definition.comment"]
+fg = '#7f848e'
+modifiers = ['italic']
+
+[info]
+fg = '#75beff'
+bg = '#4490BF00'
+
+["entity.other.attribute-name"]
+fg = '#e09956'
+modifiers = ['italic']
+
+["source.json meta.structure.dictionary.json > constant.language.json,source.json meta.structure.array.json > constant.language.json"]
+fg = '#56b6c2'
+
+["constant.language.symbol.elixir"]
+fg = '#56b6c2'
+
+["source.java"]
+fg = '#9faeca'
+
+["keyword.operator.expression.import"]
+fg = '#61afef'
+
+["keyword.operator.arithmetic,keyword.operator.comparison,keyword.operator.decrement,keyword.operator.increment,keyword.operator.relational"]
+fg = '#56b6c2'
+
+["constant.language.symbol.ruby"]
+fg = '#56b6c2'
+
+["support.type.fx.hlsl"]
+fg = '#cc6be9'
+
+["markup.italic, punctuation.definition.italic,todo.emphasis"]
+fg = '#cc6be9'
+
+["support.variable.property.process"]
+fg = '#e09956'
+
+["keyword.operator.expression.delete,keyword.operator.expression.in,keyword.operator.expression.of,keyword.operator.expression.instanceof,keyword.operator.new,keyword.operator.expression.typeof,keyword.operator.expression.void"]
+fg = '#cc6be9'
+
+["support.type.posix-reserved.c,support.type.posix-reserved.cpp"]
+fg = '#56b6c2'
+
+["storage.type.object.array.java"]
+fg = '#e5c07b'
+
+["punctuation.section.embedded.begin,punctuation.section.embedded.end"]
+fg = '#cc6be9'
+
+["punctuation.section.block.begin.bracket.curly.cpp,punctuation.section.block.end.bracket.curly.cpp,punctuation.terminator.statement.c,punctuation.section.block.begin.bracket.curly.c,punctuation.section.block.end.bracket.curly.c,punctuation.section.parens.begin.bracket.round.c,punctuation.section.parens.end.bracket.round.c,punctuation.section.parameters.begin.bracket.round.c,punctuation.section.parameters.end.bracket.round.c"]
+fg = '#d4d4d4'
+
+["support.token.decorator.python,meta.function.decorator.identifier.python"]
+fg = '#56b6c2'
+
+["keyword.control"]
+fg = '#fa909e'
+modifiers = ['italic']
+
+["keyword.other.template.end"]
+fg = '#98c379'
+
+["constant.other.symbol"]
+fg = '#56b6c2'
+
+["constant.character.format.placeholder.other.python"]
+fg = '#e09956'
+
+["class.identifier.namespace.type"]
+fg = '#e5c07b'
+
+["token.info-token"]
+fg = '#61afef'
+
+["punctuation.definition.arguments.begin.python,punctuation.definition.arguments.end.python,punctuation.separator.arguments.python,punctuation.definition.list.begin.python,punctuation.definition.list.end.python"]
+fg = '#d4d4d4'
+
+["entity.global.clojure"]
+fg = '#e5c07b'
+
+["keyword.operator.assignment"]
+fg = '#56b6c2'
+
+["keyword.operator.sigil.rust"]
+fg = '#cc6be9'
+
+["support.type.swift"]
+fg = '#e5c07b'
+
+["support.variable.dom,support.variable.property.dom"]
+fg = '#9faeca'
+
+[constant]
+fg = '#e09956'
+
+["goto-label.php,support.other.php"]
+fg = '#61afef'
+
+["meta.require"]
+fg = '#61afef'
+
+["invalid.xi"]
+fg = '#d4d4d4'
+
+["accent.xi"]
+fg = '#61afef'
+
+["markup.heading.setext.2.markdown"]
+fg = '#9faeca'
+
+[keyword]
+fg = '#cc6be9'
+
+["markup.quote.markdown"]
+fg = '#7f848e'
+
+["markup.deleted.diff"]
+fg = '#9faeca'
+
+["constant.numeric"]
+fg = '#e09956'
+
+["meta.symbol.clojure"]
+fg = '#9faeca'
+
+["invalid.illegal"]
+fg = '#ffffff'
+
+["function.brace"]
+fg = '#d4d4d4'
+
+["support.constant.property-value.scss,support.constant.property-value.css"]
+fg = '#e09956'
+
+["token.variable.parameter.java"]
+fg = '#d4d4d4'
+
+["support.type.sampler.hlsl"]
+fg = '#cc6be9'
+
+["keyword.operator.new"]
+fg = '#cc6be9'
+
+["meta.property.object"]
+fg = '#9faeca'
+
+[warning]
+fg = '#cca700'
+bg = '#A9904000'
+
+["type.module"]
+fg = '#e5c07b'
+
+["meta.selector"]
+fg = '#cc6be9'
+
+["constant.character.character-class.regexp.xi"]
+fg = '#9faeca'
+
+["punctuation.definition.parameters.begin.bracket.round.php,punctuation.definition.parameters.end.bracket.round.php,punctuation.separator.delimiter.php,punctuation.section.scope.begin.php,punctuation.section.scope.end.php,punctuation.terminator.expression.php,punctuation.definition.arguments.begin.bracket.round.php,punctuation.definition.arguments.end.bracket.round.php,punctuation.definition.storage-type.begin.bracket.round.php,punctuation.definition.storage-type.end.bracket.round.php,punctuation.definition.array.begin.bracket.round.php,punctuation.definition.array.end.bracket.round.php,punctuation.definition.begin.bracket.round.php,punctuation.definition.end.bracket.round.php,punctuation.definition.begin.bracket.curly.php,punctuation.definition.end.bracket.curly.php,punctuation.definition.section.switch-block.end.bracket.curly.php,punctuation.definition.section.switch-block.start.bracket.curly.php,punctuation.definition.section.switch-block.begin.bracket.curly.php,punctuation.definition.section.switch-block.end.bracket.curly.php"]
+fg = '#d4d4d4'
+
+["punctuation.definition.block.sequence.item.yaml"]
+fg = '#d4d4d4'
+
+["lifetime.rust"]
+fg = '#e5c07b'
+
+["keyword.operator.expression.keyof"]
+fg = '#cc6be9'
+
+["support.constant.core.rust"]
+fg = '#e09956'

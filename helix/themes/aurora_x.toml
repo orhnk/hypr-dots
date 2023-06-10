@@ -1,0 +1,409 @@
+[keyword]
+fg = '#C792EA'
+
+["variable.parameter"]
+fg = '#F78C6C'
+
+["source.css support.type.property-name"]
+fg = '#B2CCD6'
+
+["method.js"]
+fg = '#82AAFF'
+modifiers = ['italic']
+
+["source.json meta.structure.dictionary.json support.type.property-name.json"]
+fg = '#C792EA'
+
+[comment]
+fg = '#546E7A'
+modifiers = ['italic']
+
+["punctuation.definition.list_item.markdown"]
+fg = '#EEFFFF'
+
+["constant.language"]
+fg = '#F78C6C'
+
+["support.type.sys-types"]
+fg = '#FFCB6B'
+
+["markup.bold markup.italic"]
+fg = '#f07178'
+modifiers = ['bold']
+
+["constant.numeric"]
+fg = '#F78C6C'
+
+["meta.use.php"]
+fg = '#FFCB6B'
+
+["punctuation.definition.fenced.markdown"]
+fg = '#00000050'
+
+["punctuation.definition.tag.html"]
+fg = '#89DDFF'
+
+["module.js"]
+fg = '#FF5370'
+
+["source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"]
+fg = '#f07178'
+
+["meta.tag"]
+fg = '#89DDFF'
+
+["markup.raw.block"]
+fg = '#C792EA'
+
+["constant.escape"]
+fg = '#F78C6C'
+
+["entity.other.attribute-name"]
+fg = '#C792EA'
+
+["keyword.other"]
+fg = '#F78C6C'
+
+["support.other.namespace.php"]
+fg = '#FFCB6B'
+
+["variable.language"]
+fg = '#FF5370'
+modifiers = ['italic']
+
+["punctuation.definition.tag.end.html"]
+fg = '#89DDFF'
+
+["support.constant"]
+fg = '#F78C6C'
+
+["source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"]
+fg = '#F78C6C'
+
+["keyword.other.substitution"]
+fg = '#89DDFF'
+
+["source.stylus support.type.property-name"]
+fg = '#B2CCD6'
+
+["*link*"]
+modifiers = ['underline']
+
+["markup.bold string"]
+fg = '#f07178'
+modifiers = ['bold']
+
+["ui.help"]
+fg = '#576daf'
+bg = '#07090F'
+
+[string]
+fg = '#C3E88D'
+
+["markup.changed"]
+fg = '#C792EA'
+
+["punctuation.separator.inheritance.php"]
+fg = '#89DDFF'
+
+["ui.selection"]
+fg = '#262E47'
+
+["entity.other.attribute-name.class"]
+fg = '#FFCB6B'
+
+["punctuation.section.class.end"]
+fg = '#EEFFFF'
+
+[invalid]
+fg = '#FF5370'
+
+["constant.other.key"]
+fg = '#C3E88D'
+
+["support.function"]
+fg = '#82AAFF'
+
+["markup.inserted"]
+fg = '#C3E88D'
+
+["markup.deleted"]
+fg = '#FF5370'
+
+["keyword.control"]
+fg = '#89DDFF'
+
+["meta.class-method.js entity.name.function.js"]
+fg = '#82AAFF'
+
+["markup.underline"]
+fg = '#F78C6C'
+modifiers = ['underline']
+
+["markup.quote punctuation.definition.blockquote.markdown"]
+fg = '#65737E'
+
+["source.postcss support.type.property-name"]
+fg = '#B2CCD6'
+
+["*url*"]
+modifiers = ['underline']
+
+["ui.linenr.selected"]
+fg = '#576dafd8'
+
+["constant.other.color"]
+fg = '#89DDFF'
+
+["string.other.link.description.title.markdown"]
+fg = '#C792EA'
+
+["punctuation.section.embedded"]
+fg = '#89DDFF'
+
+["markup.inserted.git_gutter"]
+fg = '#C3E88D'
+
+["support.class"]
+fg = '#FFCB6B'
+
+["string.other.link.title.markdown"]
+fg = '#82AAFF'
+
+["keyword.other.special-method"]
+fg = '#82AAFF'
+
+["meta.function-call"]
+fg = '#82AAFF'
+
+["text.html.markdown markup.inline.raw.markdown"]
+fg = '#C792EA'
+
+["text.html.basic entity.other.attribute-name.html"]
+fg = '#FFCB6B'
+modifiers = ['italic']
+
+["variable.other.class.js"]
+fg = '#FF5370'
+
+["keyword.other.template"]
+fg = '#89DDFF'
+
+["string.other.link"]
+fg = '#f07178'
+
+["source.sass support.type.property-name"]
+fg = '#B2CCD6'
+
+["storage.modifier"]
+fg = '#C792EA'
+
+["ui.cursor"]
+fg = '#01030b'
+bg = '#86A5FF'
+
+["ui.text"]
+fg = '#FFCB6B'
+
+["support.other.variable"]
+fg = '#f07178'
+
+["entity.other.inherited-class"]
+fg = '#C3E88D'
+
+["punctuation.definition.tag.begin.html"]
+fg = '#89DDFF'
+
+["punctuation.definition.tag"]
+fg = '#89DDFF'
+
+["markup.heading"]
+fg = '#C3E88D'
+
+["source.sass keyword.control"]
+fg = '#82AAFF'
+
+["*uri*"]
+modifiers = ['underline']
+
+["markup.raw.block.fenced.markdown"]
+fg = '#EEFFFF'
+
+["source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"]
+fg = '#82AAFF'
+
+["keyword.other.unit"]
+fg = '#F78C6C'
+
+["ui.statusline"]
+fg = '#07090F'
+bg = '#86A5FF'
+
+["markdown.heading"]
+fg = '#C3E88D'
+
+["text.html.markdown"]
+fg = '#EEFFFF'
+
+["markup.deleted.git_gutter"]
+fg = '#f07178'
+
+["markup.heading.markdown punctuation.definition.heading.markdown"]
+fg = '#C3E88D'
+
+["tag.decorator.js entity.name.tag.js"]
+fg = '#82AAFF'
+modifiers = ['italic']
+
+["constant.character.escape"]
+fg = '#89DDFF'
+
+["source.js constant.other.object.key.js string.unquoted.label.js"]
+fg = '#FF5370'
+modifiers = ['italic']
+
+["markup.heading | markup.heading entity.name"]
+fg = '#C3E88D'
+
+["markup.italic"]
+fg = '#f07178'
+modifiers = ['italic']
+
+["tag.decorator.js punctuation.definition.tag.js"]
+fg = '#82AAFF'
+modifiers = ['italic']
+
+["storage.type"]
+fg = '#C792EA'
+
+["markup.bold markup.italic string"]
+fg = '#f07178'
+modifiers = ['bold']
+
+["variable.function.constructor"]
+fg = '#82AAFF'
+
+["text.html.basic entity.other.attribute-name"]
+fg = '#FFCB6B'
+modifiers = ['italic']
+
+["variable.import.parameter.js"]
+fg = '#FF5370'
+
+["ui.linenr"]
+fg = '#262e47bb'
+
+["support.orther.namespace.use.php"]
+fg = '#FFCB6B'
+
+["meta.separator"]
+fg = '#65737E'
+modifiers = ['bold']
+
+["markup.quote"]
+modifiers = ['italic']
+
+["string.regexp"]
+fg = '#89DDFF'
+
+["text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown"]
+fg = '#65737E'
+
+["markup.italic markup.bold"]
+fg = '#f07178'
+modifiers = ['bold']
+
+["source.less support.type.property-name"]
+fg = '#B2CCD6'
+
+["source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"]
+fg = '#C17E70'
+
+["constant.character"]
+fg = '#F78C6C'
+
+["markup.changed.git_gutter"]
+fg = '#FFCB6B'
+
+["source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"]
+fg = '#C3E88D'
+
+["ui.background"]
+bg = '#07090F'
+
+["constant.other.symbol"]
+fg = '#C3E88D'
+
+["punctuation.definition.comment"]
+fg = '#546E7A'
+modifiers = ['italic']
+
+["source.scss support.type.property-name"]
+fg = '#B2CCD6'
+
+["support.type"]
+fg = '#B2CCD6'
+
+["string constant.other.placeholder"]
+fg = '#EEFFFF'
+
+["markup.bold"]
+fg = '#f07178'
+modifiers = ['bold']
+
+[punctuation]
+fg = '#89DDFF'
+
+["invalid.illegal"]
+fg = '#FF5370'
+
+["variable.function"]
+fg = '#82AAFF'
+
+[tag]
+fg = '#f07178'
+
+["variable.language.fenced.markdown"]
+fg = '#65737E'
+
+["markup.table"]
+fg = '#EEFFFF'
+
+["meta.block variable.other"]
+fg = '#f07178'
+
+["markup.quote markup.bold string"]
+fg = '#f07178'
+modifiers = ['bold']
+
+[function]
+fg = '#82AAFF'
+
+["markup.quote markup.bold"]
+fg = '#f07178'
+modifiers = ['bold']
+
+["markup.italic markup.bold string"]
+fg = '#f07178'
+modifiers = ['bold']
+
+[variable]
+fg = '#EEFFFF'
+
+["source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"]
+fg = '#C792EA'
+
+["meta.tag.sgml"]
+fg = '#f07178'
+
+["source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"]
+fg = '#FFCB6B'
+
+["meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"]
+fg = '#C3E88D'
+
+["constant.other.reference.link.markdown"]
+fg = '#FFCB6B'
+
+["source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"]
+fg = '#FF5370'

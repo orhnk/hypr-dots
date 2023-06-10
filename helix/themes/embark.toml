@@ -1,0 +1,263 @@
+# See also: https://docs.helix-editor.com/themes.html
+#
+# NOTE: Keys default to the most specific parent value.
+#       e.g ui.cursor.primary > ui.cursor > ui
+
+# GENERAL ==============================
+
+warning = { fg = "yellow" } # Editor warnings.
+error = { fg = "red" } # Editor errors, like mis-typing a command.
+info = { fg = "sky" } # Contextual info in diagnostic messages (LSP).
+hint = { fg = "teal" } # Code diagnostics hints (LSP).
+diagnostic = { fg = "yellow", bg = "comet", modifiers = [
+  "underlined",
+  "bold",
+  "italic",
+] } # Code diagnostics in editing area (LSP).
+# "diagnostic.hint" = { fg = "pink", bg = "flamingo" }
+# "diagnostic.info" = { fg = "pink", bg = "lavender" }
+# "diagnostic.warning" = { fg = "pink", bg = "yellow" }
+# "diagnostic.error" = { fg = "pink", bg = "mauve" }
+
+# UI ==============================
+# For styling helix itself.
+
+"ui.background" = { fg = "text", bg = "base" } # Default background color.
+"ui.window" = { fg = "crust" }                 # Window border between splits.
+'ui.gutter' = { fg = "comet", bg = "base" }    # Left gutter for diagnostics and breakpoints.
+
+'ui.text' = { fg = "text" } # Default text color.
+'ui.text.focus' = { fg = "text", bg = "surface0", modifiers = [
+  "bold",
+] } # Selection highlight in buffer-picker or file-picker.
+'ui.text.info' = { fg = "subtext1" } # Info popup contents (space mode menu).
+
+"ui.cursor" = { fg = "base", bg = "secondary_cursor" } # Fallback cursor colour, non-primary cursors when there are multiple (shift-c).
+"ui.cursor.primary" = { fg = "base", bg = "green" } # The primary cursor when there are multiple (shift-c).
+'ui.cursor.insert' = { fg = "green" } # The cursor in insert mode (i).
+'ui.cursor.select' = { fg = "comet", bg = "lavender" } # The cursor in select mode (v).
+"ui.cursor.match" = { fg = "peach", modifiers = [
+  "bold",
+] } # The matching parentheses of that under the cursor.
+
+"ui.selection" = { bg = "surface1" }                      # All currently selected text.
+'ui.selection.primary' = { fg = "base", bg = "lavender" } # The primary selection when there are multiple.
+
+"ui.linenr" = { fg = "surface1" }          # Line numbers.
+"ui.linenr.selected" = { fg = "lavender" } # Current line number.
+
+'ui.virtual' = { fg = "overlay0" }              # Namespace for additions to the editing area.
+"ui.virtual.ruler" = { bg = "surface0" }        # Vertical rulers (colored columns in editing area).
+"ui.virtual.indent-guide" = { fg = "surface0" } # Whitespace markers in editing area.
+
+"ui.statusline" = { fg = "overlay1", bg = "surface0" } # Status line.
+"ui.statusline.inactive" = { fg = "overlay1", bg = "mantle" } # Status line in unfocused windows.
+"ui.statusline.normal" = { fg = "surface0", bg = "lavender", modifiers = [
+  "bold",
+] } # Statusline mode during normal mode (only if editor.color-modes is enabled)
+"ui.statusline.insert" = { fg = "surface0", bg = "green", modifiers = [
+  "bold",
+] } # Statusline mode during insert mode (only if editor.color-modes is enabled)
+"ui.statusline.select" = { fg = "surface0", bg = "flamingo", modifiers = [
+  "bold",
+] } # Statusline mode during select mode (only if editor.color-modes is enabled)
+
+"ui.help" = { fg = "overlay2", bg = "surface0" } # `:command` descriptions above the command line.
+
+"ui.highlight" = { bg = "surface1" } # selected contents of symbol pickers (spc-s, spc-S) and current line in buffer picker (spc-b).
+
+"ui.menu" = { fg = "overlay2", bg = "surface0" } # Autocomplete menu.
+"ui.menu.selected" = { fg = "green", bg = "surface1", modifiers = [
+  "bold",
+] } # Selected autocomplete item
+"ui.menu.scroll" = { fg = "rosewater", bg = "comet" }
+
+"ui.popup" = { fg = "text", bg = "surface0" }      # Documentation popups (space-k).
+'ui.popup.info' = { fg = "text", bg = "surface1" } # Info popups box (space mode menu).
+
+
+# SYNTAX HIGHLIGHTING ==============================
+# All the keys here are Treesitter scopes.
+
+'property' = { fg = "lavender" } # Regex group names.
+'special' = { fg = "blue" }      # Special symbols e.g `?` in Rust, `...` in Hare.
+'attribute' = { fg = "green" }   # Class attributes, html tag attributes.
+
+'type' = { fg = "yellow" }             # Variable type, like integer or string, including program defined classes, structs etc..
+'type.builtin' = { fg = "comet" }      # Primitive types of the language (string, int, float).
+'type.enum.variant' = { fg = "flamingo" } # A variant of an enum.
+
+'constructor' = { fg = "sapphire" } # Constructor method for a class or struct.
+
+'constant' = { fg = "flamingo" }                    # Constant value
+'constant.builtin' = { fg = "comet" }            # Special constants like `true`, `false`, `none`, etc.
+'constant.builtin.boolean' = { fg = "comet" }    # True or False.
+'constant.character' = { fg = "teal" }           # Constant of character type.
+'constant.character.escape' = { fg = "pink" }    # escape codes like \n.
+'constant.numeric' = { fg = "yellow" }         # constant integer or float value.
+'constant.numeric.integer' = { fg = "yellow" } # constant integer value.
+'constant.numeric.float' = { fg = "yellow" }   # constant float value.
+
+'string' = { fg = "green" }               # String literal.
+'string.regexp' = { fg = "mauve" }        # Regular expression literal.
+'string.special' = { fg = "pink" }        # Strings containing a path, URL, etc.
+'string.special.path' = { fg = "pink" }   # String containing a file path.
+'string.special.url' = { fg = "pink" }    # String containing a web URL.
+'string.special.symbol' = { fg = "pink" } # Erlang/Elixir atoms, Ruby symbols, Clojure keywords.
+
+'comment' = { fg = "overlay1", modifiers = ["italic"] } # This is a comment.
+'comment.line' = { fg = "overlay1", modifiers = [
+  "italic",
+] } # Line comments, like this.
+'comment.block' = { fg = "overlay1", modifiers = [
+  "italic",
+] } # Block comments, like /* this */ in some languages.
+'comment.block.documentation' = { fg = "overlay1", modifiers = [
+  "italic",
+] } # Doc comments, e.g '///' in rust.
+
+'variable' = { fg = "text" } # Variable names.
+'variable.builtin' = { fg = "mauve" } # Language reserved variables: `this`, `self`, `super`, etc.
+'variable.parameter' = { fg = "sky", modifiers = [
+  "italic",
+] } # Function parameters.
+'variable.other.member' = { fg = "teal" } # Fields of composite data types (e.g. structs, unions).
+
+'label' = { fg = "sapphire" } # Loop labels, rust lifetimes among other things.
+
+'punctuation' = { fg = "overlay2" }           # Any punctuation symbol.
+'punctuation.delimiter' = { fg = "overlay2" } # Commas, colons or other delimiter depending on the language.
+'punctuation.bracket' = { fg = "overlay2" }   # Parentheses, angle brackets, etc.
+
+'keyword' = { fg = "pink" } # Language reserved keywords.
+'keyword.control' = { fg = "rosewater", modifiers = [
+  "italic",
+] } # Control keywords.
+'keyword.control.conditional' = { fg = "pink", modifiers = [
+  "italic",
+] } # `if`, `else`, `elif`.
+'keyword.control.repeat' = { fg = "rosewater", modifiers = [
+  "italic",
+] } # `for`, `while`, `loop`.
+'keyword.control.import' = { fg = "rosewater", modifiers = [
+  "italic",
+] } # `import`, `export` `use`.
+'keyword.control.return' = { fg = "rosewater", modifiers = [
+  "italic",
+] } # `return` in most languages.
+'keyword.control.exception' = { fg = "rosewater", modifiers = [
+  "italic",
+] } # `try`, `catch`, `raise`/`throw` and related.
+'keyword.operator' = { fg = "rosewater", modifiers = [
+  "italic",
+] } # `or`, `and`, `in`.
+'keyword.directive' = { fg = "rosewater", modifiers = [
+  "italic",
+] } # Preprocessor directives (#if in C...).
+'keyword.function' = { fg = "rosewater", modifiers = [
+  "italic",
+] } # The keyword to define a function: 'def', 'fun', 'fn'.
+
+'operator' = { fg = "lavender" } # Logical, mathematical, and other operators.
+
+'function' = { fg = "blue" }
+'function.builtin' = { fg = "flamingo" }
+'function.method' = { fg = "lavender" }  # Class / Struct methods.
+'function.macro' = { fg = "teal" }
+'function.special' = { fg = "sapphire" } # Preprocessor function in C.
+
+'tag' = { fg = "pink" }      # As in <body> for html, css tags.
+'tag.error' = { fg = "mauve" } # Erroneous closing html tags.
+
+'namespace' = { fg = "blue", modifiers = [
+  "italic",
+] } # Namespace or module identifier.
+
+
+# Markup ==============================
+# Colors for markup languages, like Markdown or XML.
+
+'markup.heading.1' = { fg = "lavender" } # Markdown heading 1 color.
+'markup.heading.2' = { fg = "blue" } # Markdown heading 2 color.
+'markup.heading.3' = { fg = "green" } # Markdown heading 3 color.
+'markup.heading.4' = { fg = "yellow" } # Markdown heading 4 color.
+'markup.heading.5' = { fg = "pink" } # Markdown heading 5 color.
+'markup.heading.6' = { fg = "teal" } # Markdown heading 6 color.
+'markup.heading.marker' = { fg = "flamingo", modifiers = [
+  "bold",
+] } # Hashtag color on Markdown headings.
+
+'markup.list' = { fg = "lavender" }
+'markup.list.numbered' = { fg = "lavender" }   # Numbered list.
+'markup.list.unnumbered' = { fg = "lavender" } # Bullet point list.
+
+'markup.bold' = { modifiers = ["bold"] }     # Bold text.
+'markup.italic' = { modifiers = ["italic"] } # Italicised text.
+
+'markup.link' = { fg = "flamingo" }
+'markup.link.url' = { fg = "flamingo", modifiers = [
+  "underlined",
+] } # Urls pointed to by links.
+'markup.link.label' = { fg = "sky" } # Non-URL link references.
+'markup.link.text' = { fg = "blue" } # URL and image descriptions in links.
+
+'markup.quote' = { fg = "lavender" } # `> Quotes` in Markdown.
+
+
+# Markup - Interface ==============================
+# "These scopes are used for theming the editor interface."
+
+'markup.normal' = { fg = "text" }
+'markup.normal.completion' = { fg = "text" } # For completion doc popup ui.
+'markup.normal.raw' = { fg = "flamingo" }    # For hover popup ui.
+
+'markup.heading.completion' = { fg = "flamingo" } # Headings for completion doc popup ui.
+'markup.heading.raw' = { fg = "flamingo" }        # Headings for hover popup ui.
+
+'markup.raw' = { fg = "flamingo" } # Code block in Markdown.
+# 'markup.raw.block' = { } # Multiline (```) codeblock in Markdown.
+# 'markup.raw.inline' = { } # `Inline code block` in Markdown.
+# 'markup.raw.inline.completion' = { } # ?
+# 'markup.raw.inline.hover' = { } # ?
+
+# Diff ==============================
+# Version control changes.
+
+'diff.plus' = { fg = "green" }        # Additions.
+'diff.minus' = { fg = "mauve" }         # Deletions.
+'diff.delta' = { fg = "yellow" }      # Modifications.
+'diff.delta.moved' = { fg = "flamingo" } # Renamed or moved files.
+
+[palette]
+rosewater = "#dbbfef"
+flamingo = "#eccdba"
+pink = "#d4bfff"
+mauve = "#f48fb1"
+red = "#c94f6d"
+maroon = "#f02e6e"
+peach = "#f2b482"
+yellow = "#ffe6b3"
+green = "#a1efd3"
+teal = "#63f2f1"
+sky = "#91ddff"
+sapphire = "#87dfeb"
+blue = "#65b2ff"
+lavender = "#a4a0e8"
+comet = "#5a5977"
+
+text = "#cbe3e7"
+subtext1 = "#bac2de"
+subtext0 = "#a6adc8"
+overlay2 = "#9399b2"
+overlay1 = "#7f849c"
+overlay0 = "#6c7086"
+surface2 = "#585b70"
+surface1 = "#45475a"
+surface0 = "#313244"
+
+base = "#1e1c31"
+mantle = "#181825"
+crust = "#11111b"
+
+cursorline = "#8a889d"
+secondary_cursor = "#cbe3e7"

@@ -1,0 +1,76 @@
+"attribute" = "blue"
+
+"keyword" = { fg = "blue", modifiers = ["bold"] }
+"keyword.directive" = "red"
+
+"namespace" = "red"
+
+"punctuation" = "alt_blue"
+"punctuation.delimiter" = "alt_blue"
+
+"operator" = { fg = "red", modifiers = ["bold"] }
+"special" = "yellow"
+
+"variable.other.member" = "orange"
+"variable" = "alt_blue"
+"variable.parameter" = "orange"
+
+"type" = { fg = "red", modifiers = ["bold"] }
+"type.builtin" = "blue"
+
+"constructor" = { fg = "orange", modifiers = ["bold"] }
+"function" = { fg = "purple", modifiers = ["bold"] }
+"function.macro" = { fg = "green", modifiers = ["bold"] }
+"function.builtin" = "purple"
+
+"comment" = "grey"
+
+"variable.builtin" = "alt_blue"
+"constant" = "alt_blue"
+"constant.builtin" = "alt_blue"
+"string" = "red"
+"constant.numeric" = "alt_blue"
+"constant.character.escape" = { fg = "red", modifiers = ["bold"] }
+
+"label" = "red"
+
+"module" = "red"
+
+"diff.plus" = "#000000"
+"diff.delta" = "#000000"
+"diff.minus" = "#000000"
+
+"ui.background" = { bg = "white" }
+"ui.linenr" = { fg = "blue" }
+"ui.linenr.selected" = { fg = "red" }  # TODO
+"ui.statusline" = { fg = "red", bg = "white" }
+"ui.statusline.inactive" = { fg = "#000000", bg = "#ffffff" }
+"ui.popup" = { bg = "#ffffff" }
+"ui.window" = { bg = "#ffffff" }
+"ui.help" = { bg = "#ffffff", fg = "red" }
+
+"ui.text" = { fg = "blue" }
+"ui.text.focus" = { fg = "blue", modifiers= ["bold"] }
+
+"ui.selection" = { bg = "grey" }
+# "ui.cursor.match"  # TODO might want to override this because dimmed is not widely supported
+"ui.menu.selected" = { fg = "white", bg = "grey" }
+
+"warning" = "yellow"
+"error" = "red"
+"info" = "purple"
+"hint" = "lime"
+
+
+[palette]
+blue = "#50aefd"
+purple = "#c250fd"
+green = "#50fd7d"
+red = "#fd5068"
+lime = "#aefd50"
+alt_blue = "#1653d9"
+cyan = "#00ffe7"
+black = "#000000"
+orange = "#fcb751"
+white = "#ffffff"
+grey = "#b9b9b9"

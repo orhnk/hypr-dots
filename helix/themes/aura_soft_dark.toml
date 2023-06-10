@@ -1,0 +1,325 @@
+["punctuation.definition.raw.markdown"]
+fg = '#8464c6'
+
+["meta.class"]
+fg = '#bdbdbd'
+
+["constant.length.units.css"]
+fg = '#8464c6'
+
+[support]
+fg = '#8464c6'
+
+["storage.modifier"]
+fg = '#8464c6'
+
+["markup.inline.raw.string.markdown"]
+fg = '#54c59f'
+
+["punctuation.definition.list.begin.markdown"]
+fg = '#8464c6'
+
+["source.dart"]
+fg = '#c17ac8'
+
+["support.function"]
+fg = '#c7a06f'
+
+["markup.heading"]
+fg = '#8464c6'
+
+["constant.percentage.units.css"]
+fg = '#8464c6'
+
+["variable.object.property"]
+fg = '#c17ac8'
+
+["variable.parameter.keyframe-list.css"]
+fg = '#bdbdbd'
+
+[class]
+fg = '#6cb2c7'
+
+["support.class.builtin"]
+fg = '#6cb2c7'
+
+[tag]
+fg = '#8464c6'
+
+["variable.other.property"]
+fg = '#c17ac8'
+
+["entity.other.keyframe-offset"]
+fg = '#8464c6'
+
+[comment]
+fg = '#6d6d6d'
+
+[type]
+fg = '#6cb2c7'
+
+["punctuation.quasi.element.begin"]
+fg = '#6cb2c7'
+
+["meta.method.declaration"]
+fg = '#bdbdbd'
+
+["punctuation.quasi.element.end"]
+fg = '#6cb2c7'
+
+["variable.other.constant.elixir"]
+fg = '#6cb2c7'
+
+["punctuation.definition.template-expression.end"]
+fg = '#6cb2c7'
+
+["markup.italic.markdown"]
+modifiers = ['italic']
+
+[entity]
+fg = '#c7a06f'
+
+["section.markdown"]
+fg = '#c7a06f'
+
+["punctuation.definition.tag"]
+fg = '#bdbdbd'
+
+["markup.underline"]
+modifiers = ['underline']
+
+["ui.cursor"]
+bg = '#8464c6'
+
+["ui.selection"]
+fg = '#3d375e7f'
+
+["meta.parameters"]
+modifiers = ['italic']
+
+[variable]
+fg = '#bdbdbd'
+
+["ui.help"]
+fg = '#bdbdbd'
+bg = '#21202e'
+
+[error]
+fg = '#c55858'
+
+["entity.other.attribute-name.id.css"]
+fg = '#54c59f'
+
+["meta.type.parameters"]
+modifiers = ['italic']
+
+["markup.inserted"]
+fg = '#54c59f'
+
+["ui.statusline"]
+fg = '#adacae'
+bg = '#1f1a27'
+
+[JSXNested]
+fg = '#54c59f'
+
+["string.quoted.docstring.multi.python"]
+fg = '#6d6d6d'
+
+["variable.other.constant.property"]
+fg = '#c17ac8'
+
+["support.constant.vendored.property-value"]
+fg = '#bdbdbd'
+
+["punctuation.definition.quote.begin.markdown"]
+fg = '#8464c6'
+
+["source.env"]
+fg = '#54c59f'
+
+["meta.function.parameters"]
+modifiers = ['italic']
+
+["variable.other.quoted.double"]
+fg = '#54c59f'
+
+["function.elixir"]
+fg = '#c7a06f'
+
+["support.class.dart"]
+fg = '#6cb2c7'
+
+["meta.return.type"]
+modifiers = ['italic']
+
+[keyword]
+fg = '#8464c6'
+
+["markup.underline.link"]
+fg = '#8464c6'
+
+["variable.language"]
+fg = '#8464c6'
+
+[warning]
+fg = '#c7a06f'
+
+["support.type.property-name.css"]
+fg = '#c17ac8'
+
+[storage]
+fg = '#8464c6'
+
+["punctuation.dot.dart"]
+fg = '#bdbdbd'
+
+["string.unquoted"]
+fg = '#c17ac8'
+
+["support.class.component.tsx"]
+fg = '#c7a06f'
+
+["keyword.control.flow"]
+fg = '#8464c6'
+
+["markup.bold.markdown"]
+modifiers = ['bold']
+
+["support.type.vendored"]
+fg = '#c17ac8'
+
+["punctuation.section.embedded"]
+fg = '#bdbdbd'
+
+["support.class.component.open.jsx"]
+fg = '#c7a06f'
+
+["constant.language.symbol.elixir"]
+fg = '#c17ac8'
+
+["punctuation.definition.italic.markdown"]
+fg = '#8464c6'
+
+["entity.other.inherited-class"]
+fg = '#6cb2c7'
+
+["meta.jsx.children"]
+fg = '#54c59f'
+
+["source.css"]
+fg = '#bdbdbd'
+
+[string]
+fg = '#54c59f'
+
+["entity.other.attribute-name.class.css"]
+fg = '#6cb2c7'
+
+["variable.other.env"]
+fg = '#8464c6'
+
+["storage.type.annotation.dart"]
+fg = '#c7a06f'
+modifiers = ['bold']
+
+["entity.other.attribute-name"]
+fg = '#c17ac8'
+
+["meta.attribute.python"]
+fg = '#c17ac8'
+
+["parameter.variable.function.elixir"]
+fg = '#bdbdbd'
+
+["markup.raw"]
+fg = '#54c59f'
+
+["markup.changed"]
+fg = '#c7a06f'
+
+["type.interface"]
+modifiers = ['italic']
+
+["support.constant.property-value.css"]
+fg = '#bdbdbd'
+
+["punctuation.terminator.dart"]
+fg = '#bdbdbd'
+
+["markup.list"]
+fg = '#bdbdbd'
+
+["ui.linenr"]
+fg = '#a394f033'
+
+["punctuation.definition.template-expression.begin"]
+fg = '#6cb2c7'
+
+["function-call.elixir"]
+fg = '#c7a06f'
+
+["ui.popup"]
+fg = '#b4b4b4'
+bg = '#1f1a27'
+
+["ui.menu"]
+bg = '#1f1a27'
+
+["ui.background"]
+bg = '#21202e'
+
+["support.type.builtin.graphql"]
+fg = '#54c59f'
+
+["variable.parameter"]
+fg = '#bdbdbd'
+
+[function]
+fg = '#c7a06f'
+
+["support.class.component.close.jsx"]
+fg = '#c7a06f'
+
+["variable.graphql"]
+fg = '#c17ac8'
+
+["punctuation.definition.bold.markdown"]
+fg = '#8464c6'
+
+["support.constant.font-name"]
+fg = '#bdbdbd'
+
+["meta.embedded.expression"]
+fg = '#bdbdbd'
+
+["variable.other.object.property"]
+fg = '#c17ac8'
+
+["meta.type.annotation"]
+fg = '#c17ac8'
+modifiers = ['italic']
+
+["punctuation.separator"]
+fg = '#c17ac8'
+
+[invalid]
+fg = '#c55858'
+
+["punctuation.definition.markdown"]
+fg = '#8464c6'
+
+["meta.function-call.generic.python"]
+fg = '#c7a06f'
+
+["keyword.operator"]
+fg = '#8464c6'
+
+["markup.deleted"]
+fg = '#c55858'
+
+["meta.object-literal.key"]
+fg = '#c17ac8'
+
+[constant]
+fg = '#54c59f'

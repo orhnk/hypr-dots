@@ -1,0 +1,325 @@
+["support.type.builtin.graphql"]
+fg = '#54c59f'
+
+[invalid]
+fg = '#c55858'
+
+[storage]
+fg = '#8464c6'
+
+[constant]
+fg = '#54c59f'
+
+["keyword.control.flow"]
+fg = '#8464c6'
+
+["variable.graphql"]
+fg = '#c17ac8'
+
+["meta.attribute.python"]
+fg = '#c17ac8'
+
+["support.constant.vendored.property-value"]
+fg = '#bdbdbd'
+
+["source.dart"]
+fg = '#c17ac8'
+
+["meta.class"]
+fg = '#bdbdbd'
+
+["punctuation.definition.template-expression.end"]
+fg = '#6cb2c7'
+
+["punctuation.quasi.element.begin"]
+fg = '#6cb2c7'
+
+["ui.cursor"]
+bg = '#8464c6'
+
+["ui.statusline"]
+fg = '#adacae'
+bg = '#121016'
+
+["meta.embedded.expression"]
+fg = '#bdbdbd'
+
+["ui.help"]
+fg = '#bdbdbd'
+bg = '#15141b'
+
+["constant.length.units.css"]
+fg = '#8464c6'
+
+["section.markdown"]
+fg = '#c7a06f'
+
+[JSXNested]
+fg = '#54c59f'
+
+["variable.other.property"]
+fg = '#c17ac8'
+
+["punctuation.quasi.element.end"]
+fg = '#6cb2c7'
+
+["ui.popup"]
+fg = '#b4b4b4'
+bg = '#121016'
+
+["variable.other.quoted.double"]
+fg = '#54c59f'
+
+["meta.method.declaration"]
+fg = '#bdbdbd'
+
+["meta.jsx.children"]
+fg = '#54c59f'
+
+["punctuation.definition.quote.begin.markdown"]
+fg = '#8464c6'
+
+["variable.language"]
+fg = '#8464c6'
+
+["markup.inline.raw.string.markdown"]
+fg = '#54c59f'
+
+["punctuation.separator"]
+fg = '#c17ac8'
+
+["punctuation.dot.dart"]
+fg = '#bdbdbd'
+
+["punctuation.definition.list.begin.markdown"]
+fg = '#8464c6'
+
+["markup.underline"]
+modifiers = ['underline']
+
+["ui.menu"]
+bg = '#121016'
+
+["entity.other.attribute-name.class.css"]
+fg = '#6cb2c7'
+
+[comment]
+fg = '#6d6d6d'
+
+["variable.object.property"]
+fg = '#c17ac8'
+
+["punctuation.definition.template-expression.begin"]
+fg = '#6cb2c7'
+
+["ui.background"]
+bg = '#15141b'
+
+["variable.parameter"]
+fg = '#bdbdbd'
+
+["markup.deleted"]
+fg = '#c55858'
+
+["support.class.builtin"]
+fg = '#6cb2c7'
+
+["function-call.elixir"]
+fg = '#c7a06f'
+
+["meta.return.type"]
+modifiers = ['italic']
+
+[string]
+fg = '#54c59f'
+
+["punctuation.section.embedded"]
+fg = '#bdbdbd'
+
+["entity.other.attribute-name"]
+fg = '#c17ac8'
+
+["meta.type.annotation"]
+fg = '#c17ac8'
+modifiers = ['italic']
+
+["punctuation.terminator.dart"]
+fg = '#bdbdbd'
+
+["support.constant.property-value.css"]
+fg = '#bdbdbd'
+
+["variable.other.object.property"]
+fg = '#c17ac8'
+
+[type]
+fg = '#6cb2c7'
+
+["storage.modifier"]
+fg = '#8464c6'
+
+["support.class.component.tsx"]
+fg = '#c7a06f'
+
+["keyword.operator"]
+fg = '#8464c6'
+
+["meta.function-call.generic.python"]
+fg = '#c7a06f'
+
+["support.type.property-name.css"]
+fg = '#c17ac8'
+
+[variable]
+fg = '#bdbdbd'
+
+["punctuation.definition.tag"]
+fg = '#bdbdbd'
+
+["support.constant.font-name"]
+fg = '#bdbdbd'
+
+["variable.parameter.keyframe-list.css"]
+fg = '#bdbdbd'
+
+["entity.other.keyframe-offset"]
+fg = '#8464c6'
+
+["markup.bold.markdown"]
+modifiers = ['bold']
+
+["variable.other.constant.property"]
+fg = '#c17ac8'
+
+["constant.language.symbol.elixir"]
+fg = '#c17ac8'
+
+["meta.type.parameters"]
+modifiers = ['italic']
+
+[warning]
+fg = '#c7a06f'
+
+["markup.heading"]
+fg = '#8464c6'
+
+["variable.other.env"]
+fg = '#8464c6'
+
+["function.elixir"]
+fg = '#c7a06f'
+
+["support.function"]
+fg = '#c7a06f'
+
+[entity]
+fg = '#c7a06f'
+
+["ui.linenr"]
+fg = '#a394f033'
+
+["string.unquoted"]
+fg = '#c17ac8'
+
+["support.type.vendored"]
+fg = '#c17ac8'
+
+["markup.changed"]
+fg = '#c7a06f'
+
+["markup.raw"]
+fg = '#54c59f'
+
+["source.css"]
+fg = '#bdbdbd'
+
+["string.quoted.docstring.multi.python"]
+fg = '#6d6d6d'
+
+["entity.other.inherited-class"]
+fg = '#6cb2c7'
+
+["punctuation.definition.markdown"]
+fg = '#8464c6'
+
+["meta.object-literal.key"]
+fg = '#c17ac8'
+
+[class]
+fg = '#6cb2c7'
+
+["variable.other.constant.elixir"]
+fg = '#6cb2c7'
+
+["ui.selection"]
+fg = '#3d375e7f'
+
+["markup.list"]
+fg = '#bdbdbd'
+
+["source.env"]
+fg = '#54c59f'
+
+["parameter.variable.function.elixir"]
+fg = '#bdbdbd'
+
+["entity.other.attribute-name.id.css"]
+fg = '#54c59f'
+
+["support.class.component.open.jsx"]
+fg = '#c7a06f'
+
+["support.class.dart"]
+fg = '#6cb2c7'
+
+[keyword]
+fg = '#8464c6'
+
+["meta.function.parameters"]
+modifiers = ['italic']
+
+[error]
+fg = '#c55858'
+
+["meta.parameters"]
+modifiers = ['italic']
+
+["markup.italic.markdown"]
+modifiers = ['italic']
+
+["markup.inserted"]
+fg = '#54c59f'
+
+["type.interface"]
+modifiers = ['italic']
+
+["markup.underline.link"]
+fg = '#8464c6'
+
+[tag]
+fg = '#8464c6'
+
+["constant.percentage.units.css"]
+fg = '#8464c6'
+
+["punctuation.definition.raw.markdown"]
+fg = '#8464c6'
+
+[support]
+fg = '#8464c6'
+
+["support.class.component.close.jsx"]
+fg = '#c7a06f'
+
+["storage.type.annotation.dart"]
+fg = '#c7a06f'
+modifiers = ['bold']
+
+["punctuation.definition.bold.markdown"]
+fg = '#8464c6'
+
+["punctuation.definition.italic.markdown"]
+fg = '#8464c6'
+
+[function]
+fg = '#c7a06f'

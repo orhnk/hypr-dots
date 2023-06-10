@@ -1,0 +1,91 @@
+"ui.background" = { bg = "background" }
+
+"ui.menu" = { fg = "foreground", bg = "black" }
+"ui.menu.selected" = { fg = "black", bg = "gray" }
+
+"ui.selection" = { bg = "gray" }
+
+"ui.linenr" = { fg = "gray", modifiers = ["dim"], bg = "black" }
+"ui.linenr.selected" = { fg = "dark-blue", bg = "black", modifiers = ["bold"] }
+
+"ui.popup" = { bg = "black" }
+"ui.window" = { bg = "background" }
+
+"ui.statusline" = { fg = "foreground", bg = "black" }
+"ui.statusline.inactive" = { fg = "gray", bg = "black", modifiers = ["dim"] }
+
+"ui.help" = { bg = "background", fg = "foreground" }
+"ui.cursor" = { bg = "background", modifiers = ["reversed"] }
+"ui.text" = { fg = "foreground" }
+
+"ui.highlight" = { fg = "green" }
+
+"operator" = { fg = "dark-cyan" }
+"special" = { fg = "green" }
+
+"variable" = { fg = "foreground" }
+"variable.builtin" = { fg = "blue" }
+"variable.parameter" = { fg = "magenta" }
+"variable.other.member" = { fg = "magenta" }
+
+"constant" = { fg = "dark-yellow" }
+"constant.builtin" = { fg = "cyan" }
+"constant.numeric" = { fg = "dark-yellow" }
+
+"type" = { fg = "blue" }
+"type.builtin" = { fg = "cyan" }
+
+"keyword" = { fg = "red" }
+"keyword.control.conditional" = { fg = "dark-cyan" }
+"keyword.control.repeat" = { fg = "dark-cyan" }
+"keyword.control.directive" = { fg = "dark-magenta" }
+
+"comment" = { fg = "gray" }
+"comment.block.documentation" = { fg = "yellow" }
+"attributes" = { fg = "yellow" }
+"string" = { fg = "yellow" }
+"function" = { fg = "magenta" }
+"function.builtin" = { fg = "cyan" }
+"function.macro" = { fg = "cyan" }
+"namespace" = { fg = "dark-blue"}
+"constructor" = { fg = "blue" }
+"tag" = { fg = "red" }
+ 
+"markup.heading" = { fg = "red" }
+"markup.raw.inline" = { fg = "green" }
+"markup.bold" = { fg = "dark-yellow", modifiers = ["bold"] }
+"markup.italic" = { fg = "dark-magenta", modifiers = ["italic"] }
+"markup.list" = { fg = "red" }
+"markup.quote" = { fg = "yellow" }
+"markup.link.url" = { fg = "cyan", modifiers = ["underlined"] }
+"markup.link.text" = { fg = "dark-yellow" }
+
+"diff.plus" = "dark-green"
+"diff.delta" = "dark-yellow"
+"diff.minus" = "dark-red"
+
+diagnostic = { modifiers = ["underlined"] }
+"info" = "blue"
+"hint" = "green"
+"debug" = "yellow"
+"warning" = "dark-yellow"
+"error" = "dark-red"
+
+[palette]
+
+black = "#100e23"
+gray = "#a6b3cc"
+foreground = "#cbe3e7"
+background = "#1b182c"
+red = "#ff8080"
+dark-red = "#ff5458"
+green = "#95ffa4"
+dark-green = "#62d196"
+yellow = "#ffe9aa"
+dark-yellow = "#ffb378"
+blue = "#91ddff"
+dark-blue = "#65b2ff"
+magenta = "#c991e1"
+dark-magenta = "#906cff"
+cyan = "#aaffe4"
+dark-cyan = "#63f2f1"

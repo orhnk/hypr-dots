@@ -1,0 +1,706 @@
+["string.quoted.docstring"]
+fg = '--moonlight-indigo'
+modifiers = ['italic']
+
+["meta.brace.square"]
+fg = '--moonlight-cyan'
+
+["ui.text"]
+fg = '--moonlight-yellow'
+
+["token.debug-token"]
+fg = '--moonlight-purple'
+
+["meta.function.parameter variable"]
+fg = '--moonlight-pink'
+
+["punctuation.section.function"]
+fg = '--moonlight-gray-9'
+
+["source.go constant.language"]
+fg = '--moonlight-purple'
+
+["markup.quote markup.bold"]
+fg = '--moonlight-red'
+modifiers = ['bold']
+
+["keyword.control"]
+fg = '--moonlight-cyan'
+modifiers = ['italic']
+
+["source.java storage.type"]
+fg = '--moonlight-yellow'
+
+["*link*"]
+modifiers = ['underline']
+
+["constant.language.infinity"]
+fg = '--moonlight-orange'
+
+["markup.bold"]
+fg = '--moonlight-red'
+modifiers = ['bold']
+
+["token.info-token"]
+fg = '--moonlight-sky-blue'
+
+["support.variable.object.process"]
+fg = '--moonlight-yellow'
+
+["support.type.object.module"]
+fg = '--moonlight-yellow'
+
+["punctuation.definition.keyword"]
+fg = '--moonlight-cyan'
+
+["constant.other.character-class.set.regexp"]
+fg = '--moonlight-yellow'
+
+["constant.other.symbol"]
+fg = '--moonlight-green'
+modifiers = []
+
+["source.json meta.structure.dictionary.json support.type.property-name.json"]
+fg = '--moonlight-blue'
+
+["source.scss support.type.property-name"]
+fg = '--moonlight-blue'
+
+["meta.brace"]
+fg = '--moonlight-gray-9'
+
+["meta.embedded.block"]
+fg = '--moonlight-gray-9'
+
+["source.go entity.name.package"]
+fg = '--moonlight-gray-10'
+
+["ui.menu"]
+bg = '#1b1d2c'
+
+[variable]
+fg = '--moonlight-gray-10'
+
+["source.less support.type.property-name"]
+fg = '--moonlight-blue'
+
+[string]
+fg = '--moonlight-green'
+modifiers = []
+
+["source.c storage.type"]
+fg = '--moonlight-yellow'
+
+["keyword.other.important"]
+fg = '--moonlight-purple'
+
+["punctuation.definition.tag"]
+fg = '--moonlight-cyan'
+
+["storage.modifier"]
+fg = '--moonlight-purple'
+
+["string constant.other.placeholder"]
+fg = '--moonlight-gray-10'
+
+["constant.language.null"]
+fg = '--moonlight-desaturated-gray'
+
+[comment]
+fg = '--moonlight-indigo'
+modifiers = ['italic']
+
+["punctuation.definition.string"]
+fg = '--moonlight-cyan'
+
+["keyword.other.substitution"]
+fg = '--moonlight-cyan'
+
+["punctuation.separator.inheritance.php"]
+fg = '--moonlight-cyan'
+
+["variable.parameter"]
+fg = '--moonlight-pink'
+
+["meta.object-literal.key"]
+fg = '--moonlight-teal'
+
+["support.type"]
+fg = '--moonlight-orange'
+
+["method.js"]
+fg = '--moonlight-blue'
+modifiers = ['italic']
+
+["source.stylus support.type.property-name"]
+fg = '--moonlight-blue'
+
+["constant.language.undefined"]
+fg = '--moonlight-desaturated-gray'
+
+["string.regexp"]
+fg = '--moonlight-bright-cyan'
+
+["source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"]
+fg = '--moonlight-yellow'
+
+["text.html.markdown markup.inline.raw.markdown"]
+fg = '--moonlight-purple'
+
+["string.other.link.description.title.markdown"]
+fg = '--moonlight-purple'
+
+["keyword.control.anchor.regexp"]
+fg = '--moonlight-purple'
+
+["tag.decorator.js entity.name.tag.js"]
+fg = '--moonlight-blue'
+modifiers = ['italic']
+
+["markup.bold markup.italic"]
+fg = '--moonlight-red'
+modifiers = ['bold']
+
+["constant.other.reference.link.markdown"]
+fg = '--moonlight-yellow'
+
+["meta.separator"]
+fg = '--moonlight-cyan'
+modifiers = ['bold']
+
+["invalid.deprecated"]
+fg = '--moonlight-purple'
+
+["markup.inserted.git_gutter"]
+fg = '--moonlight-green'
+modifiers = []
+
+["token.warn-token"]
+fg = '--moonlight-yellow'
+
+["source.go entity.name.import"]
+fg = '--moonlight-green'
+
+["source.go variable.other.assignment"]
+fg = '--moonlight-light-red'
+
+["ui.linenr"]
+fg = '--moonlight-gray-6'
+
+["invalid.illegal"]
+fg = '--moonlight-dark-red'
+
+[invalid]
+fg = '--moonlight-dark-red'
+
+["constant.escape"]
+fg = '--moonlight-light-red'
+
+["punctuation.definition.entity"]
+fg = '--moonlight-cyan'
+
+["string.alias.graphql"]
+fg = '--moonlight-teal'
+
+["source.css support.type.property-name"]
+fg = '--moonlight-blue'
+
+["punctuation.support.type.property-name"]
+fg = '--moonlight-cyan'
+
+[tag]
+fg = '--moonlight-red'
+
+["entity.other.attribute-name.class"]
+fg = '--moonlight-yellow'
+
+["markup.quote punctuation.definition.blockquote.markdown"]
+fg = '--moonlight-cyan'
+
+["markup.fenced_code.block.markdown"]
+fg = '--moonlight-cyan'
+
+["constant.language"]
+fg = '--moonlight-light-red'
+
+["support.type.sys-types"]
+fg = '--moonlight-yellow'
+
+["punctuation.definition.comment"]
+fg = '--moonlight-indigo'
+modifiers = ['italic']
+
+["meta.use.php"]
+fg = '--moonlight-yellow'
+
+["variable.function"]
+fg = '--moonlight-blue'
+
+["punctuation.definition.block.tag"]
+fg = '--moonlight-cyan'
+
+["constant.language.boolean"]
+fg = '--moonlight-orange'
+
+["variable.other.class.js"]
+fg = '--moonlight-red'
+
+["meta.tag.metadata.doctype entity.name.tag"]
+fg = '--moonlight-purple'
+modifiers = ['italic']
+
+["constant.other.php"]
+fg = '--moonlight-yellow'
+
+["support.variable.dom"]
+fg = '--moonlight-yellow'
+
+["meta.function-call entity.name.function"]
+fg = '--moonlight-sky-blue'
+
+["support.variable"]
+fg = '--moonlight-gray-10'
+
+["meta.class-method.js entity.name.function.js"]
+fg = '--moonlight-blue'
+
+["markup.bold markup.italic string"]
+fg = '--moonlight-red'
+modifiers = ['bold']
+
+["source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"]
+fg = '--moonlight-pink'
+
+["source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"]
+fg = '--moonlight-blue'
+
+["source.haskell constant.other.haskell"]
+fg = '--moonlight-light-red'
+
+["text.html"]
+fg = '--moonlight-gray-10'
+
+["entity.other.attribute-name.pseudo-element"]
+fg = '--moonlight-teal'
+
+["support.function"]
+fg = '--moonlight-sky-blue'
+
+["meta.object.member"]
+fg = '--moonlight-gray-8'
+
+["support.variable.property"]
+fg = '--moonlight-gray-8'
+
+["source.sass support.type.property-name"]
+fg = '--moonlight-blue'
+
+["keyword.operator.quantifier.regexp"]
+fg = '--moonlight-pink'
+
+["meta.property-list"]
+fg = '--moonlight-cyan'
+
+["punctuation.definition.list_item.markdown"]
+fg = '--moonlight-gray-7'
+
+[storage]
+modifiers = ['italic']
+
+["markup.italic"]
+fg = '--moonlight-red'
+modifiers = ['italic']
+
+["markup.bold string"]
+fg = '--moonlight-red'
+modifiers = ['bold']
+
+["markup.raw.block"]
+fg = '--moonlight-purple'
+
+["source.go constant.other.placeholder"]
+fg = '--moonlight-light-red'
+
+["ui.cursor.match"]
+bg = '--moonlight-gray-4'
+
+["keyword.other.type.php"]
+fg = '--moonlight-light-red'
+
+["ui.statusline"]
+fg = '--moonlight-gray-7'
+bg = '--moonlight-gray-3'
+
+["keyword.operator.spread"]
+fg = '--moonlight-red'
+modifiers = ['bold']
+
+[keyword]
+fg = '--moonlight-purple'
+
+["variable.other.property"]
+fg = '--moonlight-gray-8'
+
+["constant.other.character-class.regexp"]
+fg = '--moonlight-purple'
+
+["punctuation.definition.block"]
+fg = '--moonlight-gray-9'
+
+["markup.heading"]
+fg = '--moonlight-green'
+modifiers = []
+
+[error]
+fg = '--moonlight-dark-red'
+
+["source.cpp meta.block variable.other"]
+fg = '--moonlight-red'
+
+["variable.other.object"]
+fg = '--moonlight-yellow'
+
+["punctuation.definition.template-expression"]
+fg = '--moonlight-cyan'
+
+["markup.inline.raw.string.markdown"]
+fg = '--moonlight-cyan'
+
+["source.js constant.other.object.key.js string.unquoted.label.js"]
+fg = '--moonlight-red'
+modifiers = ['italic']
+
+["markup.changed"]
+fg = '--moonlight-purple'
+
+["meta.field.declaration.ts variable.object.property"]
+fg = '--moonlight-teal'
+
+["module.js"]
+fg = '--moonlight-red'
+
+["variable.function.constructor"]
+fg = '--moonlight-blue'
+
+["punctuation.definition.group"]
+fg = '--moonlight-red'
+
+["markup.heading | markup.heading entity.name"]
+fg = '--moonlight-cyan'
+
+["string.unquoted.graphql"]
+fg = '--moonlight-teal'
+
+["source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"]
+fg = '--moonlight-sky-blue'
+
+["source.go storage.type"]
+fg = '--moonlight-teal'
+modifiers = ['italic']
+
+["markup.quote markup.bold string"]
+fg = '--moonlight-red'
+modifiers = ['bold']
+
+["punctuation.terminator.rule"]
+fg = '--moonlight-cyan'
+
+["variable.parameter.function.language.special"]
+fg = '--moonlight-pink'
+
+["meta.attribute-selector"]
+fg = '--moonlight-green'
+modifiers = []
+
+["meta.jsx.children"]
+fg = '--moonlight-gray-9'
+
+["markup.inserted"]
+fg = '--moonlight-green'
+
+["markup.heading.markdown punctuation.definition.heading.markdown"]
+fg = '--moonlight-cyan'
+
+["string.other.link.title.markdown"]
+fg = '--moonlight-blue'
+
+["support.type.vendored.property-name"]
+fg = '--moonlight-blue'
+
+["constant.other.key"]
+fg = '--moonlight-green'
+modifiers = []
+
+["support.constant.math"]
+fg = '--moonlight-yellow'
+
+["support.constant.json"]
+fg = '--moonlight-yellow'
+
+["markup.italic markup.bold string"]
+fg = '--moonlight-red'
+modifiers = ['bold']
+
+["markup.quote"]
+modifiers = ['italic']
+
+["constant.numeric"]
+fg = '--moonlight-orange'
+
+[warning]
+fg = '--moonlight-yellowcc'
+
+["keyword.other.special-method"]
+fg = '--moonlight-blue'
+
+["source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"]
+fg = '--moonlight-red'
+
+["entity.other.inherited-class"]
+fg = '--moonlight-green'
+modifiers = []
+
+["variable.language.fenced.markdown"]
+fg = '--moonlight-cyan'
+
+["keyword.other.template"]
+fg = '--moonlight-cyan'
+
+["string.other.link"]
+fg = '--moonlight-red'
+
+["constant.language.nan"]
+fg = '--moonlight-orange'
+
+["meta.tag.metadata.doctype entity.other.attribute-name"]
+fg = '--moonlight-purple'
+modifiers = ['italic']
+
+["markup.deleted"]
+fg = '--moonlight-red'
+
+["source.haskell meta.import.haskell entity.name.namespace"]
+fg = '--moonlight-gray-10'
+
+["entity.other.attribute-name"]
+fg = '--moonlight-purple'
+modifiers = ['italic']
+
+["support.constant"]
+fg = '--moonlight-light-red'
+
+["ui.cursor"]
+bg = '--moonlight-blue'
+
+["text.html.basic entity.other.attribute-name"]
+fg = '--moonlight-yellow'
+
+["support.class"]
+fg = '--moonlight-yellow'
+
+["ui.popup"]
+fg = '--moonlight-gray-8'
+bg = '--moonlight-gray-2'
+
+["markup.underline"]
+fg = '--moonlight-orange'
+modifiers = ['underline']
+
+["text.html.basic entity.other.attribute-name.html"]
+fg = '--moonlight-yellow'
+
+["punctuation.definition.tag.begin.html"]
+fg = '--moonlight-cyan'
+
+["meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"]
+fg = '--moonlight-green'
+modifiers = []
+
+["punctuation.section.embedded"]
+fg = '--moonlight-cyan'
+
+["*uri*"]
+modifiers = ['underline']
+
+["*url*"]
+modifiers = ['underline']
+
+["meta.block"]
+fg = '--moonlight-gray-9'
+
+["variable.other.constant"]
+fg = '--moonlight-light-red'
+
+["constant.character"]
+fg = '--moonlight-light-red'
+
+["support.variable.property.dom"]
+fg = '--moonlight-gray-8'
+
+["support.other.variable"]
+fg = '--moonlight-red'
+
+["markup.changed.git_gutter"]
+fg = '--moonlight-yellow'
+
+["source.postcss support.type.property-name"]
+fg = '--moonlight-blue'
+
+["keyword.operator.rest"]
+fg = '--moonlight-red'
+modifiers = ['bold']
+
+["meta.tag"]
+fg = '--moonlight-red'
+
+["variable.language"]
+fg = '--moonlight-red'
+modifiers = ['italic']
+
+["text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown"]
+fg = '--moonlight-cyan'
+
+["support.other.namespace.php"]
+fg = '--moonlight-yellow'
+
+["ui.linenr.selected"]
+fg = '--moonlight-gray-7'
+
+["ui.help"]
+fg = '--moonlight-gray-10'
+bg = '--moonlight-gray-4'
+
+["token.error-token"]
+fg = '--moonlight-red'
+
+["punctuation.definition.parameters"]
+fg = '--moonlight-gray-9'
+
+["string.unquoted.alias.graphql"]
+fg = '--moonlight-teal'
+
+["keyword.other.unit"]
+fg = '--moonlight-dark-orange'
+
+["variable.object.property"]
+fg = '--moonlight-teal'
+
+["markup.deleted.git_gutter"]
+fg = '--moonlight-red'
+
+["storage.type"]
+fg = '--moonlight-purple'
+
+["support.type.property-name.css"]
+fg = '--moonlight-blue'
+
+["storage.type.php"]
+fg = '--moonlight-light-red'
+
+["source.sass keyword.control"]
+fg = '--moonlight-blue'
+
+["keyword.operator"]
+fg = '--moonlight-cyan'
+
+["text.html.vue-html meta.tag"]
+fg = '--moonlight-cyan'
+
+["punctuation.definition.tag.end.html"]
+fg = '--moonlight-cyan'
+
+["variable.other.object.property"]
+fg = '--moonlight-gray-8'
+
+["constant.other.color"]
+fg = '--moonlight-cyan'
+
+["markdown.heading"]
+fg = '--moonlight-cyan'
+
+["markup.italic markup.bold"]
+fg = '--moonlight-red'
+modifiers = ['bold']
+
+["constant.language.json"]
+fg = '--moonlight-orange'
+
+["support.orther.namespace.use.php"]
+fg = '--moonlight-yellow'
+
+["ui.background"]
+bg = '--moonlight-gray-4'
+
+[function]
+fg = '--moonlight-blue'
+
+["entity.other.attribute-name.pseudo-class"]
+fg = '--moonlight-teal'
+
+["constant.character.escape"]
+fg = '--moonlight-cyan'
+
+["ui.selection"]
+fg = '--moonlight-gray-750'
+
+[punctuation]
+fg = '--moonlight-cyan'
+
+["punctuation.definition.tag.html"]
+fg = '--moonlight-cyan'
+
+["support.constant.property-value"]
+fg = '--moonlight-pink'
+
+["source.go variable.other.declaration"]
+fg = '--moonlight-light-red'
+
+["markup.table"]
+fg = '--moonlight-gray-7'
+
+["source.haskell storage.type"]
+fg = '--moonlight-yellow'
+
+["variable.import.parameter.js"]
+fg = '--moonlight-red'
+
+["tag.decorator.js punctuation.definition.tag.js"]
+fg = '--moonlight-blue'
+modifiers = ['italic']
+
+["storage.type.function"]
+fg = '--moonlight-purple'
+
+["source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"]
+fg = '--moonlight-teal'
+
+[palette]
+--moonlight-desaturated-gray = "#7f85a3"
+--moonlight-dark-blue = "#3e68d7"
+--moonlight-blue = "#82aaff"
+--moonlight-sky-blue = "#65bcff"
+--moonlight-cyan = "#86e1fc"
+--moonlight-red = "#ff757f"
+--moonlight-dark-red = "#ff5370"
+--moonlight-light-red = "#ff98a4"
+--moonlight-yellow = "#ffc777"
+--moonlight-orange = "#ff966c"
+--moonlight-dark-orange = "#fc7b7b"
+--moonlight-teal = "#4fd6be"
+--moonlight-green = "#c3e88d"
+--moonlight-purple = "#c099ff"
+--moonlight-pink = "#fca7ea"
+--moonlight-indigo = "#7a88cf"
+--moonlight-bright-cyan = "#b4f9f8"
+
+--moonlight-gray-10-alt = "#bcc4d6"
+--moonlight-gray-10 = "#c8d3f5"
+--moonlight-gray-9 = "#b4c2f0"
+--moonlight-gray-8 = "#a9b8e8"
+--moonlight-gray-7 = "#828bb8"
+--moonlight-gray-6 = "#444a73"
+--moonlight-gray-5 = "#2f334d"
+--moonlight-gray-4 = "#222436"
+--moonlight-gray-3 = "#1e2030"
+--moonlight-gray-2 = "#191a2a"
+--moonlight-gray-1 = "#131421"

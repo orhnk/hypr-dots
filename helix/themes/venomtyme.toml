@@ -1,0 +1,883 @@
+["meta.string-contents.quoted.double punctuation.definition.variable"]
+fg = '#F5C2E7'
+
+["punctuation.section.embedded.end.tsx"]
+fg = '#C9CBFF'
+
+["meta.group.double.toml"]
+fg = '#F5C2E7'
+
+["punctuation.support.type.property-name.begin"]
+fg = '#89DCEB'
+
+["string.quoted.double"]
+modifiers = ['normal']
+
+["punctuation.section.embedded.coffee"]
+fg = '#F5C2E7'
+
+["entity.other.attribute-name.placeholder punctuation"]
+fg = '#F5C2E7'
+
+["meta.diff.header"]
+fg = '#C9CBFF40'
+
+["storage.type.haskell"]
+fg = '#96CDFB'
+modifiers = ['italic']
+
+["ui.help"]
+fg = '#C9CBFF'
+bg = '#161320'
+
+["storage.class.std.rust"]
+fg = '#96CDFB'
+modifiers = ['italic']
+
+["string.regexp punctuation.definition.string.begin"]
+fg = '#F28FAD'
+
+["support.constant"]
+fg = '#DDB6F2'
+modifiers = ['normal']
+
+["markup.error"]
+fg = '#F28FAD'
+
+["ui.statusline"]
+fg = '#C9CBFF'
+bg = '#161320'
+
+["ui.cursor"]
+bg = '#C9CBFF'
+
+["meta.at-rule.function variable"]
+fg = '#F8BD96'
+modifiers = ['italic']
+
+["punctuation.colon.graphql"]
+fg = '#F5C2E7'
+
+["punctuation.definition.directive.restructuredtext"]
+fg = '#F5C2E7'
+
+["variable.other.alias.yaml"]
+fg = '#ABE9B3'
+modifiers = [
+    'italic',
+    'underline',
+]
+
+[storage]
+fg = '#F5C2E7'
+modifiers = ['regular']
+
+["variable.other.predefined"]
+fg = '#DDB6F2'
+modifiers = ['regular']
+
+["string.regexp"]
+fg = '#FAE3B0'
+
+["string.quoted"]
+modifiers = ['normal']
+
+["meta.protocol-list.objc"]
+fg = '#96CDFB'
+modifiers = ['italic']
+
+["meta.import variable.other.readwrite.alias"]
+fg = '#C9CBFF'
+modifiers = ['normal']
+
+["invalid.deprecated"]
+fg = '#C9CBFF'
+modifiers = [
+    'italic',
+    'underline',
+]
+
+["punctuation.definition.comment"]
+fg = '#C9CBFF40'
+modifiers = ['italic']
+
+["punctuation.definition.group.assertion.regexp"]
+fg = '#F28FAD'
+
+["meta.variable.assignment.destructured.object.coffee variable variable"]
+fg = '#C9CBFF'
+modifiers = ['normal']
+
+["variable.other.constant.ts"]
+fg = '#C9CBFF'
+
+["function.target.makefile"]
+fg = '#96CDFB'
+
+["variable.other.object"]
+fg = '#F28FAD'
+modifiers = ['italic']
+
+["meta.function-call.static"]
+fg = '#ABE9B3'
+
+["punctuation.definition.character-class.regexp"]
+fg = '#96CDFB'
+
+["source.java storage.type"]
+fg = '#96CDFB'
+modifiers = ['italic']
+
+["punctuation.definition.type.begin"]
+fg = '#C9CBFF'
+
+["meta.variable.assignment.destructured.object.coffee variable"]
+fg = '#F8BD96'
+modifiers = ['italic']
+
+["fragment.graphql"]
+fg = '#96CDFB'
+
+["punctuation.support.type.property-name.end"]
+fg = '#89DCEB'
+
+["meta.decorator variable.other.property"]
+fg = '#ABE9B3'
+modifiers = ['italic']
+
+["tag.yaml"]
+fg = '#96CDFB'
+
+["source.powershell entity.other.attribute-name"]
+fg = '#96CDFB'
+modifiers = ['italic']
+
+["storage.type.objc"]
+fg = '#96CDFB'
+modifiers = ['italic']
+
+["punctuation.section.embedded.end.jsx"]
+fg = '#C9CBFF'
+
+["source.shell variable.other"]
+fg = '#DDB6F2'
+
+["storage.type.generic.java"]
+fg = '#C9CBFF'
+
+["string.unquoted.heredoc punctuation.definition.string"]
+fg = '#F5C2E7'
+
+["punctuation.section.embedded.begin.jsx"]
+fg = '#C9CBFF'
+
+["string.template punctuation.accessor"]
+fg = '#C9CBFF'
+
+["variable.other.member"]
+fg = '#F8BD96'
+modifiers = ['italic']
+
+["keyword.operator.negation.regexp"]
+fg = '#F28FAD'
+
+["variable.language punctuation.definition.variable.php"]
+fg = '#FAE3B0'
+modifiers = ['italic']
+
+["punctuation.definition.block.scalar.literal.yaml"]
+fg = '#F5C2E7'
+
+["support.variable"]
+fg = '#DDB6F2'
+modifiers = ['regular']
+
+["punctuation.definition.entity.end"]
+fg = '#C9CBFF'
+
+[comment]
+fg = '#C9CBFF40'
+modifiers = ['italic']
+
+[invalid]
+fg = '#F28FAD'
+modifiers = [
+    'italic',
+    'underline',
+]
+
+["fenced_code.block.language"]
+fg = '#ABE9B3'
+
+["punctuation.separator.slice"]
+fg = '#F5C2E7'
+
+["log.warning"]
+fg = '#FAE3B0'
+modifiers = ['bold']
+
+["punctuation.definition.block.scalar.folded.yaml"]
+fg = '#F5C2E7'
+
+["constant.regexp"]
+fg = '#F5C2E7'
+
+["punctuation.definition.interpolation.end"]
+fg = '#F5C2E7'
+
+["meta.function"]
+modifiers = ['italic']
+
+["punctuation.section.embedded.begin.tsx"]
+fg = '#C9CBFF'
+
+["meta.function-call.object"]
+fg = '#ABE9B3'
+
+["punctuation.function.swift"]
+fg = '#F5C2E7'
+
+[emphasis]
+modifiers = ['italic']
+
+["markup.quote"]
+fg = '#FAE3B0'
+modifiers = ['italic']
+
+["markup.heading"]
+fg = '#DDB6F2'
+modifiers = ['bold']
+
+["markup.raw.inner.restructuredtext"]
+fg = '#ABE9B3'
+
+[keyword]
+fg = '#F5C2E7'
+modifiers = ['italic']
+
+["punctuation.section.embedded.end source.php"]
+fg = '#F5C2E7'
+
+["markup.quote.markdown meta.paragraph.markdown punctuation.definition.string.begin"]
+fg = '#FAE3B0'
+
+["punctuation.definition.arguments.end"]
+fg = '#C9CBFF'
+
+["beginning.punctuation.definition.quote.markdown"]
+fg = '#96CDFB'
+
+["variable.parameter"]
+fg = '#F8BD96'
+modifiers = ['italic']
+
+["meta.function.arguments variable.other.php"]
+fg = '#F8BD96'
+modifiers = ['italic']
+
+["meta.export variable.other.readwrite.alias"]
+fg = '#C9CBFF'
+modifiers = ['normal']
+
+["constant.character.escape"]
+fg = '#F5C2E7'
+
+["variable.other.key.toml"]
+fg = '#96CDFB'
+
+["markup.changed"]
+fg = '#F8BD96'
+
+["storage.type.cs"]
+fg = '#96CDFB'
+modifiers = ['italic']
+
+["punctuation.definition.link.restructuredtext"]
+fg = '#96CDFB'
+
+["keyword.operator.other.powershell"]
+fg = '#C9CBFF'
+
+["support.function.magic"]
+fg = '#DDB6F2'
+modifiers = ['regular']
+
+["constant.other.symbol.hashkey.ruby"]
+fg = '#C9CBFF'
+
+[error]
+fg = '#F28FAD'
+
+["constant.other.date"]
+fg = '#F8BD96'
+
+["punctuation.definition.entity.other.inherited-class"]
+fg = '#F5C2E7'
+
+["meta.object-binding-pattern-variable punctuation.destructuring"]
+fg = '#F5C2E7'
+
+["type.class"]
+fg = '#96CDFB'
+modifiers = ['italic']
+
+["meta.jsx.children"]
+modifiers = ['normal']
+
+["entity.other.attribute-name"]
+fg = '#ABE9B3'
+modifiers = ['italic']
+
+[type]
+fg = '#96CDFB'
+modifiers = ['italic']
+
+["constant.character.escape.backslash.regexp"]
+fg = '#FAE3B0'
+
+["meta.preprocessor.haskell"]
+fg = '#C9CBFF40'
+
+["markup.inserted"]
+fg = '#ABE9B3'
+
+["punctuation.definition.entity.begin"]
+fg = '#C9CBFF'
+
+["beginning.punctuation.definition.list.markdown"]
+fg = '#96CDFB'
+
+["type.type-parameter"]
+fg = '#F8BD96'
+
+["keyword.other.statement-separator.powershell"]
+fg = '#C9CBFF'
+
+[constant]
+fg = '#DDB6F2'
+modifiers = ['normal']
+
+["punctuation.separator.pointer-access"]
+fg = '#F5C2E7'
+
+["markup.heading.markdown punctuation.definition.string.end"]
+fg = '#DDB6F2'
+
+["storage.type.groovy"]
+fg = '#96CDFB'
+modifiers = ['italic']
+
+["punctuation.definition.string.end"]
+fg = '#F8BD96'
+
+["keyword.operator.function.infix"]
+fg = '#ABE9B3'
+
+["punctuation.section.scope.end"]
+fg = '#C9CBFF'
+
+["keyword.operator.new"]
+modifiers = ['bold']
+
+["section.toml"]
+fg = '#96CDFB'
+
+["ui.text"]
+modifiers = ['italic']
+
+["meta.selectionset.graphql meta.arguments.graphql variable.arguments.graphql"]
+fg = '#F8BD96'
+modifiers = ['italic']
+
+["string.quoted.docstring.multi"]
+fg = '#C9CBFF40'
+
+["punctuation.definition.keyword"]
+fg = '#F5C2E7'
+
+["punctuation.section.embedded.begin"]
+fg = '#F5C2E7'
+
+["entity.other.attribute-name.pseudo-class punctuation"]
+fg = '#F5C2E7'
+
+["meta.link.reference.def.restructuredtext"]
+fg = '#F5C2E7'
+
+["constant.other.timestamp"]
+fg = '#F8BD96'
+
+["comment.block.documentation keyword"]
+fg = '#F5C2E7'
+
+["string.template meta.brace"]
+fg = '#C9CBFF'
+
+["meta.implementation storage.type.objc"]
+fg = '#F5C2E7'
+modifiers = ['regular']
+
+["meta.function-call.php"]
+fg = '#ABE9B3'
+
+["markup.inline.raw"]
+fg = '#ABE9B3'
+
+["keyword.type.cs"]
+fg = '#96CDFB'
+modifiers = ['italic']
+
+["punctuation.definition.group.capture.regexp"]
+fg = '#F5C2E7'
+
+["keyword.operator.dereference.java"]
+fg = '#C9CBFF'
+
+[tag]
+fg = '#F28FAD'
+
+["ui.background"]
+bg = '#161320'
+
+[header]
+fg = '#DDB6F2'
+
+["markup.heading.markdown punctuation.definition.string.begin"]
+fg = '#DDB6F2'
+
+["meta.body"]
+modifiers = ['italic']
+
+["markup.deleted"]
+fg = '#F28FAD'
+
+["meta.tag.without-attributes"]
+modifiers = ['normal']
+
+["punctuation.separator.key-value"]
+fg = '#F5C2E7'
+
+["markup.italic"]
+fg = '#FAE3B0'
+modifiers = ['italic']
+
+["markup.underline.link"]
+fg = '#96CDFB'
+
+["punctuation.definition.attribute-selector.end.bracket.square.scss"]
+fg = '#C9CBFF'
+
+["string.quoted.other"]
+modifiers = ['normal']
+
+[warning]
+fg = '#96CDFB'
+
+["punctuation.definition.interpolation.begin"]
+fg = '#F5C2E7'
+
+["ui.menu"]
+bg = '#161320'
+
+["meta.paragraph.markdown punctuation.definition.string.begin"]
+fg = '#C9CBFF'
+
+["punctuation.definition.string.begin"]
+fg = '#F8BD96'
+
+[class]
+fg = '#96CDFB'
+modifiers = ['italic']
+
+["markup.raw.restructuredtext"]
+fg = '#ABE9B3'
+
+["punctuation.separator.inheritance"]
+fg = '#F5C2E7'
+
+["keyword.operator.navigation.groovy"]
+fg = '#C9CBFF'
+
+["support.variable.property"]
+fg = '#C9CBFF'
+
+["meta.diff"]
+fg = '#C9CBFF40'
+
+["punctuation.definition.group.regexp"]
+fg = '#F8BD96'
+
+["variable.other.property"]
+fg = '#F28FAD'
+modifiers = ['italic']
+
+["storage.type.c"]
+fg = '#96CDFB'
+modifiers = ['italic']
+
+["meta.scope.for-loop.shell punctuation.definition.string.begin"]
+fg = '#C9CBFF'
+
+["keyword.expressions-and-types.swift"]
+fg = '#FAE3B0'
+modifiers = ['italic']
+
+["storage.type.core.rust"]
+fg = '#96CDFB'
+modifiers = ['italic']
+
+[string]
+fg = '#FAE3B0'
+modifiers = ['italic']
+
+["meta.paragraph.markdown punctuation.definition.string.end"]
+fg = '#C9CBFF'
+
+["constant.language.empty-list.haskell"]
+fg = '#C9CBFF'
+
+[support]
+fg = '#96CDFB'
+modifiers = ['italic']
+
+["entity.other.attribute-name.pseudo-element punctuation"]
+fg = '#F5C2E7'
+
+["meta.at-rule.mixin variable"]
+fg = '#F8BD96'
+modifiers = ['italic']
+
+["punctuation.separator.namespace"]
+fg = '#F5C2E7'
+
+["variable.other.constant.tsx"]
+fg = '#C9CBFF'
+
+["support.function"]
+modifiers = [
+    'italic',
+    'regular',
+]
+
+["punctuation.separator.hash"]
+fg = '#F5C2E7'
+
+["log.error"]
+fg = '#F28FAD'
+modifiers = ['bold']
+
+["comment.block.documentation entity.name.type"]
+fg = '#96CDFB'
+modifiers = ['italic']
+
+[filename]
+fg = '#FAE3B0'
+
+["markup.underline"]
+modifiers = ['underline']
+
+["meta.scope.for-loop.shell string"]
+fg = '#C9CBFF'
+
+[strong]
+modifiers = ['bold']
+
+[source]
+modifiers = ['italic']
+
+[text]
+modifiers = ['normal']
+
+["support.other.chomping-indicator.yaml"]
+fg = '#F5C2E7'
+
+["punctuation.definition.block"]
+modifiers = ['normal']
+
+["punctuation.definition.attribute-selector.begin.bracket.square.scss"]
+fg = '#C9CBFF'
+
+["ui.popup"]
+fg = '#C9CBFF'
+bg = '#161320'
+
+["comment.block.documentation entity.name.type punctuation.definition.bracket"]
+fg = '#96CDFB'
+
+["markup.fenced_code.block.markdown punctuation.definition.markdown"]
+fg = '#ABE9B3'
+
+["unused.comment"]
+fg = '#C9CBFF40'
+modifiers = ['italic']
+
+["string.quoted.docstring.multi.python constant.character.escape"]
+fg = '#C9CBFF40'
+
+["meta.decorator variable.other.object"]
+fg = '#ABE9B3'
+
+["meta.separator.markdown"]
+fg = '#C9CBFF40'
+
+["variable.other.constant"]
+fg = '#DDB6F2'
+
+["meta.method.groovy"]
+fg = '#ABE9B3'
+
+["meta.interface-or-protocol storage.type.objc"]
+fg = '#F5C2E7'
+modifiers = ['regular']
+
+["meta.assertion.look-ahead.regexp"]
+fg = '#ABE9B3'
+
+["meta.group.toml"]
+fg = '#F5C2E7'
+
+["comment keyword.codetag.notation"]
+fg = '#F5C2E7'
+
+["support.type.property-name"]
+modifiers = [
+    'italic',
+    'regular',
+]
+
+["storage.modifier.import"]
+fg = '#C9CBFF'
+
+["meta.attribute-selector.scss"]
+fg = '#FAE3B0'
+
+["punctuation.terminator.expression.php"]
+fg = '#C9CBFF'
+
+["string.quoted.docstring.multi.python punctuation.definition.string.end"]
+fg = '#C9CBFF40'
+
+["punctuation.definition.constant.restructuredtext"]
+fg = '#DDB6F2'
+
+["storage.type.php"]
+fg = '#96CDFB'
+modifiers = ['italic']
+
+["variable.other.constant.js"]
+fg = '#C9CBFF'
+
+["storage.type.ocaml"]
+fg = '#96CDFB'
+modifiers = ['italic']
+
+["storage.type.attribute.swift"]
+fg = '#96CDFB'
+modifiers = ['italic']
+
+["punctuation.separator.key-value.mapping.yaml"]
+fg = '#F5C2E7'
+
+[function]
+fg = '#ABE9B3'
+
+["string.other.link.description"]
+fg = '#F5C2E7'
+
+["keyword.control.new"]
+modifiers = ['bold']
+
+["source.go storage.type"]
+fg = '#96CDFB'
+modifiers = ['italic']
+
+["entity.other.attribute-name.parent-selector"]
+fg = '#F5C2E7'
+
+["markup.bold"]
+fg = '#F8BD96'
+modifiers = ['bold']
+
+["punctuation.definition.template-expression.begin"]
+fg = '#F5C2E7'
+
+["variable.other.readwrite.instance.ruby"]
+fg = '#FAE3B0'
+modifiers = ['italic']
+
+["string.unquoted.plain"]
+modifiers = ['normal']
+
+["markup.quote.markdown meta.paragraph.markdown punctuation.definition.string.end"]
+fg = '#FAE3B0'
+
+["punctuation.separator.annotation"]
+fg = '#F5C2E7'
+
+["ui.selection"]
+fg = '#C9CBFF80'
+
+["punctuation.definition.type.end"]
+fg = '#C9CBFF'
+
+["string.regexp punctuation.definition.string.end"]
+fg = '#F28FAD'
+
+["punctuation.definition.template-expression.end"]
+fg = '#F5C2E7'
+
+["string.interpolated"]
+modifiers = ['normal']
+
+["constant.other.character-class.set.regexp"]
+fg = '#FAE3B0'
+
+["meta.selectionset.graphql variable"]
+fg = '#FAE3B0'
+
+["keyword.other.this"]
+fg = '#FAE3B0'
+modifiers = ['italic']
+
+["storage.type"]
+modifiers = ['italic']
+
+["punctuation.section.embedded.end source.ruby"]
+fg = '#F5C2E7'
+
+["meta.brace.round"]
+fg = '#C9CBFF'
+
+["comment.block.documentation storage.type.class"]
+fg = '#F5C2E7'
+
+["meta.method-call.java meta.method"]
+fg = '#ABE9B3'
+
+["punctuation.definition.arguments.begin"]
+fg = '#C9CBFF'
+
+[variable]
+fg = '#C9CBFF'
+modifiers = ['italic']
+
+["keyword.primitive-datatypes.swift"]
+fg = '#96CDFB'
+modifiers = ['italic']
+
+["meta.selectionset.graphql meta.arguments variable"]
+fg = '#C9CBFF'
+
+["punctuation.definition.variable.makefile"]
+fg = '#F5C2E7'
+
+["source.groovy storage.type.def"]
+fg = '#F5C2E7'
+modifiers = ['regular']
+
+["variable.parameter.function.language.special"]
+fg = '#FAE3B0'
+modifiers = ['italic']
+
+["meta.type.parameters entity.name.type"]
+fg = '#F8BD96'
+
+["storage.modifier"]
+fg = '#F5C2E7'
+modifiers = ['italic']
+
+["meta.selector"]
+fg = '#F5C2E7'
+
+["string.other.link.title"]
+fg = '#F5C2E7'
+
+["constant.other.symbol.hashkey punctuation.definition.constant.ruby"]
+fg = '#F5C2E7'
+
+["punctuation.separator.dictionary.key-value"]
+fg = '#F5C2E7'
+
+["variable.fragment.graphql"]
+fg = '#96CDFB'
+
+["meta.decorator variable.other.readwrite"]
+fg = '#ABE9B3'
+modifiers = ['italic']
+
+["punctuation.definition.tag.cs"]
+fg = '#C9CBFF'
+
+["meta.indexer.mappedtype.declaration entity.name.type"]
+fg = '#F8BD96'
+
+["constant.other.key.perl"]
+fg = '#C9CBFF'
+
+["meta.scope.for-loop.shell punctuation.definition.string.end"]
+fg = '#C9CBFF'
+
+["ui.linenr"]
+fg = '#C9CBFF40'
+
+["punctuation.section.embedded.end"]
+fg = '#F5C2E7'
+
+["source.groovy storage.type"]
+fg = '#96CDFB'
+modifiers = ['italic']
+
+["markup.underline.link.image"]
+fg = '#96CDFB'
+
+["meta.scope.prerequisites.makefile"]
+fg = '#FAE3B0'
+
+["variable.language"]
+fg = '#FAE3B0'
+modifiers = ['italic']
+
+["meta.function-call punctuation"]
+fg = '#C9CBFF'
+
+["wildcard.comment"]
+fg = '#C9CBFF40'
+modifiers = ['italic']
+
+["punctuation.section.scope.begin"]
+fg = '#C9CBFF'
+
+["punctuation.definition.block.sequence.item.yaml"]
+fg = '#F5C2E7'
+
+["constant.character.string.escape"]
+fg = '#F5C2E7'
+
+["entity.other.inherited-class"]
+fg = '#96CDFB'
+modifiers = ['italic']
+
+["meta.import variable.other.readwrite"]
+fg = '#F8BD96'
+modifiers = ['italic']
+
+["punctuation.separator.list.comma.css"]
+fg = '#C9CBFF'
+
+["meta.return-type.objc"]
+fg = '#96CDFB'
+modifiers = ['italic']
+
+["string.quoted.docstring.multi.python punctuation.definition.string.begin"]
+fg = '#C9CBFF40'
+
+["comment.block.documentation variable"]
+fg = '#F8BD96'
+modifiers = ['italic']
+
+["support.function.any-method.lua"]
+fg = '#ABE9B3'
+
+["directive.restructuredtext"]
+fg = '#FAE3B0'
+modifiers = ['italic']
