@@ -1,0 +1,134 @@
+configuration {
+    modi: "drun,run";
+    lines: 5;
+    font: "JetBrains Mono Nerd Font Bold 14";
+    show-icons: true;
+    icon-theme: "Papirus-Dark";
+    terminal: "alacritty";
+    drun-display-format: "{icon} {name}";
+    location: 0;
+    disable-history: false;
+    hide-scrollbar: true;
+    sidebar-mode: true;
+    display-drun: " 󰀘  Apps ";
+    display-run: "   Command ";
+    display-window: "   Window ";
+}
+
+@theme "themes/gruvbox"
+
+element-text {
+    background-color: #00000000;
+    text-color: inherit;
+}
+
+element-text selected {
+    background-color: #00000000;
+    text-color: inherit;
+}
+
+mode-switcher {
+    background-color: #00000000;
+}
+
+window {
+    height: 400px;
+    width: 600px;
+    border: 0px;
+    border-radius: 5px;
+    border: 0px 0px 8px 0px;
+    border-color: @window-underline;
+    background-color: @window;
+    padding: 0px 0px 0px 0px;
+    fullscreen: false;
+}
+
+mainbox {
+    background-color: #00000000;
+}
+
+inputbar {
+    children: [prompt,entry];
+    background-color: #00000000;
+    border-radius: 3px;
+    padding: 2px;
+}
+
+prompt {
+    background-color: @button;
+    padding: 12px;
+    text-color: @bg-col;
+    border-radius: 3px;
+    margin: 8px 0px 0px 8px;
+    border: 0px 0px 8px 0px;
+    border-color: @button-underline;
+}
+
+textbox-prompt-colon {
+    expand: false;
+    str: ":";
+}
+
+entry {
+    padding: 12px 13px -4px 11px;
+    margin: 8px 8px 0px 8px;
+    text-color: @fg-col;
+    background-color: @blank;
+    border-radius: 3px;
+    border: 0px 0px 8px 0px;
+    border-color: @blank-underline;
+}
+
+listview {
+    border: 0px 0px 0px;
+    margin: 27px 10px -13px 10px;
+    background-color: #00000000;
+    columns: 1;
+}
+
+element {
+    padding: 12px 12px 12px 12px;
+    background-color: @blank;
+    text-color: @fg-col;
+    margin: 0px 0px 8px 0px;
+    border-radius: 3px;
+    border: 0px 0px 8px 0px;
+    border-color: @blank-underline;
+}
+
+element-icon {
+    size: 25px;
+    background-color: #00000000;
+}
+
+element selected {
+    background-color: @button;
+    text-color: @fg-col2;
+    border-radius: 3px;
+    border: 0px 0px 8px 0px;
+    border-color: @button-underline;
+}
+
+mode-switcher {
+    spacing: 0;
+}
+
+button {
+    padding: 12px;
+    margin: 10px;
+    background-color: @blank;
+    text-color: @tab;
+    vertical-align: 0.5; 
+    horizontal-align: 0.5;
+    border-radius: 3px;
+    border: 0px 0px 8px 0px;
+    border-color: @blank-underline;
+}
+
+button selected {
+    background-color: @bg-col-light;
+    text-color: @tab-selected;
+    border-radius: 3px;
+    border: 0px 0px 8px 0px;
+    border-color: @button-underline;
+}
